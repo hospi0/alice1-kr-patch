@@ -1,0 +1,620 @@
+번호	위치	EN	KO
+00001	U|INT/controls2.urc|163|title|0	Select	선택
+00002	U|INT/controls2.urc|191|title|0	Back	뒤로
+00003	U|INT/controls2.urc|370|title|0	BindList	바인드 목록
+00004	U|INT/controls2.urc|395|title|0	Alt Attack / Climb Up	보조 공격 / 위로 오르기
+00005	U|INT/controls2.urc|408|title|0	Next Weapon	다음 무기
+00006	U|INT/controls2.urc|421|title|0	Move	이동
+00007	U|INT/controls2.urc|434|title|0	Menu Navigation	메뉴 이동
+00008	U|INT/controls2.urc|447|title|0	Turn / Aim	회전 / 조준
+00009	U|INT/controls2.urc|460|title|0	Attack / Climb Down	공격 / 아래로 내려가기
+00010	U|INT/controls2.urc|473|title|0	Jump / Swim Up	점프 / 위로 헤엄치기
+00011	U|INT/controls2.urc|486|title|0	Use / Swim Down	사용 / 아래로 헤엄치기
+00012	U|INT/controls2.urc|512|title|0	Prev Weapon	이전 무기
+00013	U|INT/controls2.urc|538|title|0	Pause / Exit Menu	일시정지 / 메뉴 나가기
+00014	U|INT/controls2.urc|551|title|0	Controls	조작
+00015	U|INT/controls2.urc|600|title|0	Apply	적용
+00016	U|INT/controls2.urc|631|title|0	Cancel	취소
+00017	U|INT/controls2.urc|662|title|0	Brightness	밝기
+00018	U|INT/controls2.urc|694|title|0	Music Volume	음악 음량
+00019	U|INT/controls2.urc|725|title|0	Effects Volume	효과음 음량
+00020	U|INT/controls2.urc|826|title|0	Sensitivity	감도
+00021	U|INT/controls2.urc|858|title|0	Invert Vertical Look	상하 시점 반전
+00022	U|INT/controls2.urc|891|title|0	Subtitles	자막
+00023	U|INT/controls_ps3.urc|695|title|0	Screen Scale	화면 크기
+00024	U|INT/loadsave2.urc|390|title|0	Load	불러오기
+00025	U|INT/loadsave2.urc|419|title|0	Save	저장
+00026	U|INT/loadsave2.urc|448|title|0	Delete	삭제
+00027	U|INT/main2.urc|221|title|0	Change	변경
+00028	U|INT/main2.urc|276|title|0	Back to game	게임으로 돌아가기
+00029	U|INT/quit2.urc|27|title|0	Return to	다음으로 돌아가기:
+00030	U|INT/quit2.urc|41|title|0	Alice: Madness Returns?	앨리스: 매드니스 리턴즈?
+00031	U|INT/quit2.urc|56|title|0	Quiting will cause you to	종료하면 저장하지 않은
+00032	U|INT/quit2.urc|70|title|0	lose any unsaved progress.	진행 상황이 모두 사라집니다.
+00033	U|INT/quit2.urc|84|title|0	Yes	예
+00034	U|INT/quit2.urc|112|title|0	No	아니오
+00035	U|INT/quit2.urc|127|title|0	Credits	크레딧
+00036	U|INT/title.urc|25|title|0	Press START Button	START 버튼을 누르세요
+00037	U|pak0/ui/animate2.urc|23|title|0	ViewThing	물체 보기
+00038	U|pak0/ui/animate2.urc|49|title|0	PrevAnim	이전 애니메이션
+00039	U|pak0/ui/animate2.urc|63|title|0	NextAnim	다음 애니메이션
+00040	U|pak0/ui/animate2.urc|77|title|0	Animate	애니메이션
+00041	U|pak0/ui/animate2.urc|91|title|0	ViewOrigin	원점 보기
+00042	U|pak0/ui/animate2.urc|117|title|0	PrevFrame	이전 프레임
+00043	U|pak0/ui/animate2.urc|131|title|0	NextFrame	다음 프레임
+00044	U|pak0/ui/animate2.urc|175|title|0	Spawn	생성
+00045	U|pak0/ui/animate2.urc|187|title|0	Prev	이전
+00046	U|pak0/ui/animate2.urc|201|title|0	Next	다음
+00047	U|pak0/ui/animate2.urc|229|title|0	ScaleUp	확대
+00048	U|pak0/ui/animate2.urc|243|title|0	ScaleDn	축소
+00049	U|pak0/ui/animate2.urc|257|title|0	Frame	프레임
+00050	U|pak0/ui/animate2.urc|283|title|0	Scale	크기
+00051	U|pak0/ui/animate3.urc|351|title|0	Shadow	그림자
+00052	U|pak0/ui/bind.scr|39|binditem|0	Primary Attack	주 공격
+00053	U|pak0/ui/bind.scr|40|binditem|0	Alternate Attack	보조 공격
+00054	U|pak0/ui/bind.scr|42|binditem|0	Move Forward	앞으로 이동
+00055	U|pak0/ui/bind.scr|43|binditem|0	Move Backward	뒤로 이동
+00056	U|pak0/ui/bind.scr|44|binditem|0	Jump/Swim Up	점프/위로 헤엄치기
+00057	U|pak0/ui/bind.scr|45|binditem|0	Climb Down/Swim Dn	아래로 내려가기/아래로 헤엄치기
+00058	U|pak0/ui/bind.scr|47|binditem|0	Turn Left	좌회전
+00059	U|pak0/ui/bind.scr|48|binditem|0	Turn Right	우회전
+00060	U|pak0/ui/bind.scr|49|binditem|0	Strafe Left	좌측 이동
+00061	U|pak0/ui/bind.scr|50|binditem|0	Strafe Right	우측 이동
+00062	U|pak0/ui/bind.scr|52|binditem|0	Toggle Run/Walk	달리기/걷기 전환
+00063	U|pak0/ui/bind.scr|53|binditem|0	Use/Climb Up	사용/위로 오르기
+00064	U|pak0/ui/bind.scr|54|binditem|0	Camera Look	카메라 시점
+00065	U|pak0/ui/bind.scr|55|binditem|0	Cheshire Help	체셔 고양이 도움말
+00066	U|pak0/ui/bind.scr|56|binditem|0	Pause	일시정지
+00067	U|pak0/ui/bind.scr|58|binditem|0	Equip Vorpal Blade	보펄 검 장착
+00068	U|pak0/ui/bind.scr|59|binditem|0	Equip Cards	카드 장착
+00069	U|pak0/ui/bind.scr|60|binditem|0	Equip Mallet	크로켓 망치 장착
+00070	U|pak0/ui/bind.scr|61|binditem|0	Equip Demon Dice	악마의 주사위 장착
+00071	U|pak0/ui/bind.scr|62|binditem|0	Equip Jackbomb	깜짝 상자 폭탄 장착
+00072	U|pak0/ui/bind.scr|63|binditem|0	Equip Icewand	얼음 지팡이 장착
+00073	U|pak0/ui/bind.scr|64|binditem|0	Equip Jacks	공깃돌 장착
+00074	U|pak0/ui/bind.scr|65|binditem|0	Equip Eyestaff	눈알 지팡이 장착
+00075	U|pak0/ui/bind.scr|66|binditem|0	Equip Blunderbuss	나팔총 장착
+00076	U|pak0/ui/bind.scr|67|binditem|0	Equip Deadtime Watch	시간 정지 시계 장착
+00077	U|pak0/ui/bind.scr|69|binditem|0	Quick Save	빠른 저장
+00078	U|pak0/ui/bind.scr|70|binditem|0	Quick Load	빠른 불러오기
+00079	U|pak0/ui/bind.scr|73|binditem|0	Previous Weapon	이전 무기
+00080	U|pak0/ui/cinemaquickmenu.urc|8|title|0	Fakeplayer	가짜 플레이어
+00081	U|pak0/ui/cinemaquickmenu.urc|19|title|0	Cinematic	시네마틱
+00082	U|pak0/ui/cinemaquickmenu.urc|30|title|0	First Person	1인칭
+00083	U|pak0/ui/cinemaquickmenu.urc|41|title|0	Cinema End	시네마 종료
+00084	U|pak0/ui/cinemaquickmenu.urc|51|title|0	Cinema Start	시네마 시작
+00085	U|pak0/ui/cinemaquickmenu.urc|61|title|0	RemoveFakeplayer	가짜 플레이어 제거
+00086	U|pak0/ui/cinemaquickmenu.urc|72|title|0	Noncinematic	비시네마틱
+00087	U|pak0/ui/cinemaquickmenu.urc|83|title|0	Cueplayer	플레이어 큐
+00088	U|pak0/ui/cinemaquickmenu.urc|94|title|0	ThirdPerson	3인칭
+00089	U|pak0/ui/cinemaquickmenu.urc|105|title|0	Noclip	노클립
+00090	U|pak0/ui/cinemaquickmenu.urc|127|title|0	Clearletterbox	레터박스 해제
+00091	U|pak0/ui/cinemaquickmenu.urc|138|title|0	Letterbox 1	레터박스 1
+00092	U|pak0/ui/cinematicmenu.urc|11|title|0	Roll	롤
+00093	U|pak0/ui/cinematicmenu.urc|22|title|0	Angle Roll	롤 각도
+00094	U|pak0/ui/cinematicmenu.urc|38|title|0	Pitch	피치
+00095	U|pak0/ui/cinematicmenu.urc|49|title|0	Angle Pitch	피치 각도
+00096	U|pak0/ui/cinematicmenu.urc|65|title|0	Yaw	요
+00097	U|pak0/ui/cinematicmenu.urc|106|title|0	Origin	원점
+00098	U|pak0/ui/cinematicmenu.urc|117|title|0	Angle Yaw	요 각도
+00099	U|pak0/ui/cinematicmenu.urc|133|title|0	Add	추가
+00100	U|pak0/ui/cinematicmenu.urc|145|title|0	Replace	교체
+00101	U|pak0/ui/cinematicmenu.urc|157|title|0	Current Path	현재 경로
+00102	U|pak0/ui/cinematicmenu.urc|168|title|0	New	새로 만들기
+00103	U|pak0/ui/cinematicmenu.urc|205|title|0	Rename	이름 변경
+00104	U|pak0/ui/cinematicmenu.urc|251|title|0	Play	재생
+00105	U|pak0/ui/cinematicmenu.urc|263|title|0	Loop	반복
+00106	U|pak0/ui/cinematicmenu.urc|275|title|0	Stop	정지
+00107	U|pak0/ui/cinematicmenu.urc|335|title|0	Current Node	현재 노드
+00108	U|pak0/ui/cinematicmenu.urc|377|title|0	Thread	스레드
+00109	U|pak0/ui/cinematicmenu.urc|388|title|0	Watch	감시
+00110	U|pak0/ui/cinematicmenu.urc|399|title|0	Path	경로
+00111	U|pak0/ui/cinematicmenu.urc|411|title|0	Node	노드
+00112	U|pak0/ui/cinematicmenu.urc|433|title|0	Fadetime	페이드 시간
+00113	U|pak0/ui/cinematicmenu.urc|455|title|0	Target	대상
+00114	U|pak0/ui/cinematicmenu.urc|476|title|0	FOV	시야각
+00115	U|pak0/ui/cinematicmenu.urc|593|title|0	Speed	속도
+00116	U|pak0/ui/cinematicmenu.urc|722|title|0	3RD	3인칭
+00117	U|pak0/ui/cinematicmenu.urc|734|title|0	Update Node	노드 갱신
+00118	U|pak0/ui/cinematicmenu.urc|758|title|0	Hide	숨기기
+00119	U|pak0/ui/cinematicmenu.urc|770|title|0	Show	표시
+00120	U|pak0/ui/cinematicmenu.urc|793|title|0	HUD	HUD
+00121	U|pak0/ui/cinematicmenu.urc|805|title|0	Minicon	미니콘
+00122	U|pak0/ui/controls.urc|349|title|0	Reset	초기화
+00123	U|pak0/ui/controls.urc|431|title|0	Resolution	해상도
+00124	U|pak0/ui/controls.urc|469|title|0	Color Depth	색상 심도
+00125	U|pak0/ui/controls.urc|502|title|0	Fullscreen	전체 화면
+00126	U|pak0/ui/controls.urc|567|title|0	Texture Detail	텍스처 품질
+00127	U|pak0/ui/controls.urc|599|title|0	Texture Depth	텍스처 심도
+00128	U|pak0/ui/controls.urc|632|title|0	Detail Textures	디테일 텍스처
+00129	U|pak0/ui/controls.urc|711|title|0	Sound Driver	사운드 드라이버
+00130	U|pak0/ui/controls.urc|806|title|0	Speaker Type	스피커 유형
+00131	U|pak0/ui/controls.urc|829|additem|0	Normal	일반
+00132	U|pak0/ui/controls.urc|830|additem|0	Headphones	헤드폰
+00133	U|pak0/ui/controls.urc|831|additem|0	Surround	서라운드
+00134	U|pak0/ui/controls.urc|832|additem|0	Quad	쿼드
+00135	U|pak0/ui/controls.urc|839|title|0	Quality	품질
+00136	U|pak0/ui/controls.urc|862|additem|0	22 khz	22 kHz
+00137	U|pak0/ui/controls.urc|863|additem|0	44 khz	44 kHz
+00138	U|pak0/ui/controls.urc|870|title|0	Force 8bits	8비트 강제
+00139	U|pak0/ui/controls.urc|979|title|0	Invert Mouse	마우스 반전
+00140	U|pak0/ui/controls.urc|1013|title|0	Camera Distance	카메라 거리
+00141	U|pak0/ui/controls.urc|1040|title|0	Always Run	항상 달리기
+00142	U|pak0/ui/controls.urc|1071|title|0	Jump Reticle	점프 조준선
+00143	U|pak0/ui/controls.urc|1098|title|0	Target Reticle	목표 조준선
+00144	U|pak0/ui/controls.urc|1152|title|0	Console	콘솔
+00145	U|pak0/ui/gamecamera.urc|121|title|0	Camera Height	카메라 높이
+00146	U|pak0/ui/gamecamera.urc|142|title|0	Camera Scale	카메라 배율
+00147	U|pak0/ui/gamecamera.urc|163|title|0	Displacement	변위
+00148	U|pak0/ui/gamecamera.urc|184|title|0	Camera Menu	카메라 메뉴
+00149	U|pak0/ui/gamecamera.urc|194|title|0	Reset to Default	기본값으로 초기화
+00150	U|pak0/ui/loadsave.urc|473|mouseEnterCmd|0	Load Game	게임 불러오기
+00151	U|pak0/ui/loadsave.urc|491|mouseEnterCmd|0	Save Game	게임 저장
+00152	U|pak0/ui/loadsave.urc|510|mouseEnterCmd|0	Delete Game	게임 삭제
+00153	U|pak0/ui/maplist.scr|2|1|0	Dementia	정신 착란
+00154	U|pak0/ui/maplist.scr|3|1|0	Pandemonium	판데모니움
+00155	U|pak0/ui/maplist.scr|6|2|0	Fortress of Doors	문들의 요새
+00156	U|pak0/ui/maplist.scr|7|2|0	Beyond the Wall	벽 너머
+00157	U|pak0/ui/maplist.scr|8|2|0	Skool Daze	스쿨의 나날
+00158	U|pak0/ui/maplist.scr|9|2|0	Skool's Out	스쿨 방과 후
+00159	U|pak0/ui/maplist.scr|12|3|0	Pool of Tears	눈물의 웅덩이
+00160	U|pak0/ui/maplist.scr|13|3|0	Hollow Hideaway	텅 빈 은신처
+00161	U|pak0/ui/maplist.scr|14|3|0	Just Desserts	응보의 디저트
+00162	U|pak0/ui/maplist.scr|15|3|0	Wholly Morel Ground	모렐 버섯의 성지
+00163	U|pak0/ui/maplist.scr|18|4|0	Dry Landing	마른 땅 착륙
+00164	U|pak0/ui/maplist.scr|19|4|0	Herbaceous Border	초본 화단
+00165	U|pak0/ui/maplist.scr|20|4|0	Rolling Stones	구르는 돌
+00166	U|pak0/ui/maplist.scr|21|4|0	Icy Reception	얼음 같은 환영
+00167	U|pak0/ui/maplist.scr|22|4|0	Fungiferous Flora	버섯 식물군
+00168	U|pak0/ui/maplist.scr|23|4|0	Centipede's Sanctum	지네의 성소
+00169	U|pak0/ui/maplist.scr|24|4|0	Caterpillar's Plot	애벌레의 터
+00170	U|pak0/ui/maplist.scr|27|5|0	Pale Realm	창백한 영역
+00171	U|pak0/ui/maplist.scr|28|5|0	Castling	캐슬링
+00172	U|pak0/ui/maplist.scr|29|5|0	Checkmate in Red	붉은 체크메이트
+00173	U|pak0/ui/maplist.scr|30|5|0	Mirror Image	거울상
+00174	U|pak0/ui/maplist.scr|33|6|0	Crazed Clockwork	미친 태엽 장치
+00175	U|pak0/ui/maplist.scr|34|6|0	About Face	방향 전환
+00176	U|pak0/ui/maplist.scr|37|7|0	Burning Curiosity	불타는 호기심
+00177	U|pak0/ui/maplist.scr|38|7|0	Jabberwock's Lair	재버워크의 소굴
+00178	U|pak0/ui/maplist.scr|41|8|0	Majestic Maze	웅장한 미로
+00179	U|pak0/ui/maplist.scr|42|8|0	Airborne Terror	하늘의 공포
+00180	U|pak0/ui/maplist.scr|43|8|0	Mystifying Madness	혼란스러운 광기
+00181	U|pak0/ui/maplist.scr|44|8|0	Water Logged	물에 잠긴 곳
+00182	U|pak0/ui/maplist.scr|45|8|0	Labyrinthine Revenge	미궁의 복수
+00183	U|pak0/ui/maplist.scr|46|8|0	Machinations	음모
+00184	U|pak0/ui/maplist.scr|49|9|0	Royal Rage	왕의 분노
+00185	U|pak0/ui/maplist.scr|50|9|0	Battle Royale	배틀 로열
+00186	U|pak0/ui/maplist.scr|51|9|0	Ascension	승천
+00187	U|pak0/ui/maplist.scr|52|9|0	Castle Keep	성의 중심 성채
+00188	U|pak0/ui/maplist.scr|53|9|0	Heart of Darkness	어둠의 심장
+00189	U|pak0/ui/zound.urc|9|title|0	Current	현재
+00190	U|pak0/ui/zound.urc|41|title|0	Length	길이
+00191	U|pak0/ui/zound.urc|52|title|0	Width	너비
+00192	U|pak0/ui/zound.urc|104|title|0	Volume	음량
+00193	U|pak0/ui/zound.urc|115|title|0	Min Distance	최소 거리
+00194	U|pak0/ui/zound.urc|126|title|0	Channel	채널
+00195	U|pak0/ui/zound.urc|167|title|0	Min Delay	최소 지연
+00196	U|pak0/ui/zound.urc|188|title|0	Max Delay	최대 지연
+00197	U|pak0/ui/zound.urc|209|title|0	Chance	확률
+00198	U|pak0/ui/zound.urc|256|title|0	Reset All	모두 초기화
+00199	U|pak0/ui/zound.urc|329|title|0	Add Speaker	스피커 추가
+00200	U|pak0/ui/zound.urc|342|title|0	Add Random	랜덤 추가
+00201	U|pak0/ui/zound.urc|365|title|0	Type	유형
+00202	U|pak0/ui/zound.urc|387|title|0	Sound Menu	사운드 메뉴
+00203	U|pak0/ui/zound.urc|397|title|0	Height	높이
+00204	U|pak0/ui/zound.urc|418|title|0	Add Music Trigger	음악 트리거 추가
+00205	U|pak0/ui/zound.urc|430|title|0	Add Reverb Trigger	리버브 트리거 추가
+00206	U|pak0/ui/zound.urc|442|title|0	Fallback	대체
+00207	U|pak0/ui/zound.urc|453|title|0	Reverb Type	리버브 유형
+00208	U|pak0/ui/zound.urc|464|title|0	Reverb Level	리버브 레벨
+00209	U|pak0/ui/zound.urc|485|title|0	Update	갱신
+00210	U|pak0/ui/zound.urc|499|title|0	Multi-Faceted	다면
+00211	U|pak0/ui/zound.urc|510|title|0	Volume Slider	음량 슬라이더
+00212	U|pak0/ui/zound.urc|527|title|0	Minimum Distance	최소 거리
+00213	U|pak0/ui/zound.urc|563|title|0	Minimum Delay	최소 지연
+00214	U|pak0/ui/zound.urc|581|title|0	Maximum Delay	최대 지연
+00215	U|pak0/ui/zound.urc|599|title|0	Sound	사운드
+00216	U|pak0/ui/zound.urc|640|title|0	Targetname	대상 이름
+00217	U|pak0/ui/zound.urc|751|additem|0	normal	일반
+00218	U|pak0/ui/zound.urc|752|additem|0	action	액션
+00219	U|pak0/ui/zound.urc|753|additem|0	suspense	서스펜스
+00220	U|pak0/ui/zound.urc|754|additem|0	mystery	미스터리
+00221	U|pak0/ui/zound.urc|755|additem|0	success	성공
+00222	U|pak0/ui/zound.urc|756|additem|0	failure	실패
+00223	U|pak0/ui/zound.urc|757|additem|0	surprise	놀람
+00224	U|pak0/ui/zound.urc|758|additem|0	special	특수
+00225	U|pak0/ui/zound.urc|759|additem|0	aux1	aux1
+00226	U|pak0/ui/zound.urc|760|additem|0	aux2	aux2
+00227	U|pak0/ui/zound.urc|761|additem|0	aux3	aux3
+00228	U|pak0/ui/zound.urc|762|additem|0	aux4	aux4
+00229	U|pak0/ui/zound.urc|763|additem|0	aux5	aux5
+00230	U|pak0/ui/zound.urc|764|additem|0	aux6	aux6
+00231	U|pak0/ui/zound.urc|765|additem|0	aux7	aux7
+00232	U|pak0/ui/zound.urc|800|title|0	Use Yaw	요 사용
+00233	U|pak0/ui/zound.urc|813|title|0	1 Shot	1회
+00234	U|pak0/ui/zound.urc|826|title|0	Switch Face	면 전환
+00235	U|pak0/ui/zound.urc|848|title|0	Preview	미리 보기
+00236	U|pak0/ui/zound.urc|925|additem|0	Not	없음
+00237	U|pak0/ui/zound.urc|926|additem|0	North/South	남북
+00238	U|pak0/ui/zound.urc|927|additem|0	East/West	동서
+00239	T|alice.tlk|sound/character/alice/vo/alc001.wav	Perhaps I'll just look around a bit.	잠깐 둘러보기나 해 볼까.
+00240	T|alice.tlk|sound/character/alice/vo/alc002.wav	A familiar face wouldn't be unwelcome.	낯익은 얼굴이 하나쯤 보여도 나쁘진 않을 텐데.
+00241	T|alice.tlk|sound/character/alice/vo/alc003.wav	Curiouser and Curiouser.	점점 더 기묘해지는걸.
+00242	T|alice.tlk|sound/character/alice/vo/alc004.wav	Where is that Rabbit?	그 토끼는 어디 있는 거지?
+00243	T|alice.tlk|sound/character/alice/vo/alc005.wav	Trembling signals timidity. I'd smell trouble... if I weren't shaking so.	떨림은 소심함의 신호야. 이렇게 떨고만 있지 않았다면 말썽의 냄새를 맡았을 텐데...
+00244	T|alice.tlk|sound/character/alice/vo/alc006.wav	This is all vaguely reminiscent, but alien.	어렴풋이 낯익은 것 같으면서도 낯설어.
+00245	T|alice.tlk|sound/character/alice/vo/alc007.wav	A fine mess--comes from chatting with a Rabbit.	아주 가관이군. 토끼랑 수다를 떤 대가야.
+00246	T|alice.tlk|sound/character/alice/vo/alc008.wav	My Gosh. What was that? And what is that noise?	세상에. 방금 그건 뭐였지? 그리고 이 소리는 또 뭐야?
+00247	T|alice.tlk|sound/character/alice/vo/alc009.wav	If ignorance is bliss, I must be ecstatic.	모르는 게 약이라면, 난 지금 황홀경에 빠져 있어야겠네.
+00248	T|alice.tlk|sound/character/alice/vo/alc010.wav	It seems one can't go home again.	고향에는 다시 돌아갈 수 없는 모양이야.
+00249	T|alice.tlk|sound/character/alice/vo/alc011.wav	Perhaps the asylum wasn't so bad.	어쩌면 정신병원도 그렇게 나쁘진 않았는지도.
+00250	T|alice.tlk|sound/character/alice/vo/alc012.wav	How curious. How very curious.	참 묘하군. 정말 묘해.
+00251	T|alice.tlk|sound/character/alice/vo/alc013.wav	I keep saying, You've seen worse at Rutledge's, but it's very little comfort.	계속 되뇌어 봐. 러틀리지에서 더한 것도 봤잖아, 하고. 하지만 위안이 되진 않아.
+00252	T|alice.tlk|sound/character/alice/vo/alc014.wav	Wondering alone is worthless. I must act.	궁금해하기만 해서는 아무 소용 없어. 행동해야 해.
+00253	T|alice.tlk|sound/character/alice/vo/alc015.wav	Is this weird, or am I hallucinating?	이게 이상한 걸까, 아니면 내가 환각을 보는 걸까?
+00254	T|alice.tlk|sound/character/alice/vo/alc016.wav	Weird and terrifying are definitely not the same.	기이한 것과 끔찍한 것은 분명 같지 않아.
+00255	T|alice.tlk|sound/character/alice/vo/alc017.wav	Curiosity can kill I suppose; but apathy is lethal.	호기심은 목숨을 앗아 갈 수도 있겠지. 하지만 무관심은 치명적이야.
+00256	T|alice.tlk|sound/character/alice/vo/alc018.wav	A dream discarded dies hard.	버려진 꿈은 쉽게 죽지 않아.
+00257	T|alice.tlk|sound/character/alice/vo/alc019.wav	Wonderland, where are you now?	원더랜드, 지금 어디에 있니?
+00258	T|alice.tlk|sound/character/alice/vo/alc020.wav	This is a most peculiar trip.	정말 별난 여행이네.
+00259	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat006.wav	Haste makes waste, so I rarely hurry. But if a ferret were about to dart up my dress, I'd run.	서두르면 일을 그르치니 나는 좀처럼 서두르지 않지. 하지만 족제비가 드레스 속으로 뛰어들려 한다면 나도 달릴 거야.
+00260	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat007.wav	When the path is problematical, consider a leap of faith. Ride the wind.	길이 험난하다면 믿음으로 도약해 보렴. 바람을 타는 거야.
+00261	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat008.wav	Hanging ropes are as good as step ladders to those who know how to use them.	늘어진 밧줄도 쓸 줄 아는 이에게는 사다리나 다름없단다.
+00262	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat009.wav	Scythes, hips, and the hangman's noose all do it. Why not you?	낫도, 엉덩이도, 교수형 밧줄도 다들 흔들리며 해내는걸. 너라고 못 할 게 있겠어?
+00263	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat040.wav	Only a few find the way; some don't recognize it when they do; some don't ever want to.	길을 찾는 이는 극소수야. 찾고도 알아보지 못하는 이도 있고, 아예 찾고 싶어 하지 않는 이도 있지.
+00264	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat010.wav	Your knife is necessary, but not sufficient. Always collect what's useful. Reject only your ignorance and you may survive.	네 칼은 필요하긴 해도 충분하진 않아. 쓸 만한 건 늘 챙기렴. 버릴 것은 네 무지뿐이야. 그러면 살아남을지도 모르지.
+00265	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat011.wav	This simple game can turn distinctly nasty. Don't ever play alone.	이 단순한 놀이는 순식간에 고약해질 수 있어. 절대 혼자서 하지 마.
+00266	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat012.wav	52 pickup is a staple of juvenile humor. But when the deck slices and dices, it's no laughing matter.	카드를 흩뿌려 놓고 줍게 하는 장난은 유치한 농담의 단골이지. 하지만 카드 한 벌이 썰고 저며 대는 판이라면 웃을 일이 아니야.
+00267	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat013.wav	Jack's a friend, but his temperament is explosive. May be best to let him play by himself.	잭은 친구지만 성질이 폭발적이야. 혼자 놀게 내버려 두는 게 나을지도 몰라.
+00268	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat014.wav	Withering cold incapacitates an enemy more completely than deep wounds. But winter does not last forever.	살을 에는 추위는 깊은 상처보다 더 확실하게 적을 무력하게 하지. 하지만 겨울이 영원히 계속되진 않아.
+00269	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat015.wav	Ah, the diabolical dice. A word of caution. Don't throw them when you're alone. The fiends lack loyalty, and their notion of nourishment is quite disturbing.	아, 악마의 주사위로군. 한마디 해 두자면, 혼자 있을 때는 던지지 마. 그 악당들은 충성심이 없는 데다 먹이에 대한 생각이 꽤 섬뜩하거든.
+00270	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat016.wav	A blunderbuss in the hands of a blockhead, is a catastrophe waiting to happen. You're not a dunderhead, but exercise great care.	멍청이 손에 들린 나팔총은 터지길 기다리는 재앙이야. 넌 멍청이는 아니지만, 그래도 각별히 조심해.
+00271	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat017.wav	Launch this rocket against a distant target. Its white-hot energy does terrible damage.	이 로켓은 먼 표적에 쏘렴. 백열의 에너지가 끔찍한 피해를 입히지.
+00272	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat018.wav	Here's a riddle. When is a croquet mallet like a billy club?  I'll tell you: Whenever you want it to be.	수수께끼 하나. 크로켓 망치가 곤봉과 같아지는 때는 언제일까? 알려 주지. 네가 그러길 바랄 때마다야.
+00273	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat019.wav	Whoever says too much of a good thing is not enough, speaks the truth.	좋은 것은 아무리 많아도 모자란다고 말하는 이는 진실을 말하는 거야.
+00274	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat020.wav	Whatever says too much of a good thing must be bad, tells a lie.	좋은 것도 너무 많으면 나쁘다고 말하는 이는 거짓을 말하는 거야.
+00275	T|cat_action.tlk|sound/character/cheshire_cat/vo/cat021.wav	For every task there's a proper tool; sometimes more than one.	모든 일에는 알맞은 도구가 있어. 때로는 하나가 아니기도 하고.
+00276	T|cat_humpty.tlk|sound/character/cheshire_cat/vo/cat033.wav	You may have missed something. What's rubbish to one is salvation to another.	뭔가 놓쳤을지도 몰라. 누군가에게는 쓰레기인 것이 다른 이에게는 구원이거든.
+00277	T|cat_humpty.tlk|sound/character/cheshire_cat/vo/cat034.wav	Look, Alice. Though his elliptical essence is unrecognizable, it's wrong to think him worthless.	보렴, 앨리스. 타원형이던 본모습은 알아볼 수 없게 되었지만, 그를 쓸모없다고 여기는 건 잘못이야.
+00278	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat037.wav	Every adventure requires a first step. Trite, but true, even here.	모든 모험에는 첫걸음이 필요해. 진부하지만 이곳에서도 사실이야.
+00279	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat038.wav	When the remarkable turns bizarre, reason turns rancid.	놀라운 일이 기괴해지면 이성은 썩어 버리지.
+00280	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat039.wav	What is sought is most often found... if it is truly sought.	찾는 것은 대개 찾게 되는 법이야... 진정으로 찾는다면.
+00281	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat041.wav	There's an ugly name for those who do things the hard way.	일을 어렵게 하는 이들에겐 별로 듣기 좋지 않은 이름이 있지.
+00282	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat042.wav	The uninformed must improve their deficit, or die.	아는 것 없는 자는 그 부족함을 메우든가, 죽든가 해야 해.
+00283	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat043.wav	To the royal guards of this realm, we are all victims in-waiting.	이 왕국의 근위병들에게 우리는 모두 대기 중인 희생자일 뿐이야.
+00284	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat044.wav	Only the foolish believe suffering is just wages for being different.	고통이 남과 다른 데 대한 정당한 대가라고 믿는 건 어리석은 자들뿐이야.
+00285	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat045.wav	Only the savage regard the endurance of pain as the measure of worth.	고통을 견디는 것이 가치의 척도라고 여기는 건 야만인뿐이야.
+00286	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat046.wav	Only the insane equate pain with success.	고통을 성공과 같은 것으로 여기는 건 미친 자들뿐이야.
+00287	T|cat_idle.tlk|sound/character/cheshire_cat/vo/cat047.wav	Tell yourself, I've seen worse at Rutledge's. Prevarication, in this instance, may help.	이렇게 되뇌렴. 러틀리지에서 더한 것도 봤다고. 이런 경우엔 둘러대는 것도 도움이 될지 몰라.
+00288	T|cat_powerups.tlk|sound/character/cheshire_cat/cat022.wav	This unique watch stops time for a time. Unlike death, time moves on. Those who stood still with time move on also unless they're dead.	이 독특한 시계는 한동안 시간을 멈춰 줘. 죽음과 달리 시간은 다시 흘러가지. 시간과 함께 멈춰 있던 이들도 죽지만 않았다면 다시 움직이고.
+00289	T|cat_powerups.tlk|sound/character/cheshire_cat/cat023.wav	The mask will not fool the water. But I will confound your enemies when you can swim and breath like a reptile while wearing it.	이 가면으로 물을 속일 수는 없어. 하지만 쓰고 있으면 파충류처럼 헤엄치고 숨 쉴 수 있으니 네 적들은 어리둥절해하겠지.
+00290	T|cat_powerups.tlk|sound/character/cheshire_cat/cat024.wav	Noisy creatures, crooks, and assorted voyeurs would love to be invisible. For you the option may be a matter of survival.	시끄러운 놈들이나 악당, 온갖 훔쳐보기쟁이들은 투명해지고 싶어 하겠지. 하지만 너에게 그건 생존이 걸린 문제일지도 몰라.
+00291	T|cat_powerups.tlk|sound/character/cheshire_cat/cat025.wav	What they can't see, they don't want to hear. You'll do better if you become corporeal.	보이지 않는 건 듣고 싶어 하지도 않아. 네가 실체를 되찾는 편이 더 나을 거야.
+00292	T|cat_powerups.tlk|sound/character/cheshire_cat/cat026.wav	Those who say there's nothing like a nice cup of tea for calming the nerves, never had real tea. It's like a syringe of adrenaline right to the heart.	차 한 잔이 신경을 가라앉히는 데 최고라고 말하는 이들은 진짜 차를 마셔 본 적이 없는 거야. 이건 심장에 곧장 꽂는 아드레날린 주사 같거든.
+00293	T|cat_powerups.tlk|sound/character/cheshire_cat/cat027.wav	Meta-Essence is the life force of Wonderland; that of your enemies is especially potent. Collect what you can. Use it wisely.	메타에센스는 원더랜드의 생명력이고, 적들의 것은 특히 강력해. 모을 수 있는 만큼 모으고, 현명하게 써.
+00294	T|cat_powerups.tlk|sound/character/cheshire_cat/cat028.wav	How fine you look when dressed in rage. Your enemies are fortunate that your condition is not permanent. And you're lucky too. Red eyes suit so few.	분노를 두른 네 모습이 참 멋지구나. 이 상태가 영원하지 않으니 네 적들은 운이 좋아. 너도 운이 좋고. 붉은 눈이 어울리는 이는 드물거든.
+00295	T|cat_powerups.tlk|sound/character/cheshire_cat/cat029.wav	You're sufficiently fortified to kick some ass.	이제 한바탕 걷어차 줄 만큼 충분히 든든해졌어.
+00296	T|cat_powerups.tlk|sound/character/cheshire_cat/cat030.wav	You're sufficiently fortified to boot these creatures' nether regions.	이제 이 괴물들의 아랫도리를 걷어차 줄 만큼 충분히 든든해졌어.
+00297	T|cat_powerups.tlk|sound/character/cheshire_cat/cat031.wav	Threats, promises, and good intentions don't amount to action.	협박도, 약속도, 좋은 의도도 행동이 되진 않아.
+00298	T|cat_powerups.tlk|sound/character/cheshire_cat/cat032.wav	Time to raise some havoc. The dogs of war are loose.	한바탕 난장판을 벌일 시간이야. 전쟁의 사냥개들이 풀려났어.
+00299	T|cat_unhelp.tlk|sound/character/cheshire_cat/vo/cat001.wav	I can't know everything. Pretend you're an orphan. . . oh, that was rude; you are.	나라고 모든 걸 알 순 없어. 고아라고 생각해 봐... 아, 무례했네. 넌 고아지.
+00300	T|cat_unhelp.tlk|sound/character/cheshire_cat/vo/cat002.wav	Work if you must. It's my nature to unwind from time to time.	꼭 해야 한다면 해. 나는 가끔 느긋하게 쉬는 게 천성이야.
+00301	T|cat_unhelp.tlk|sound/character/cheshire_cat/vo/cat003.wav	I've heard self-reliance is a virtue. Now you've heard it.	자립은 미덕이라더라. 이제 너도 들었지.
+00302	T|cat_unhelp.tlk|sound/character/cheshire_cat/vo/cat004.wav	Observe, learn, and react.	관찰하고, 배우고, 대응해.
+00303	T|cat_unhelp.tlk|sound/character/cheshire_cat/vo/cat005.wav	I suppose experience teaches best, learn by doing, and similar clichés have merit. Take their advice. I'm busy.	경험이 최고의 스승이라느니, 해 보면서 배우라느니 하는 진부한 말도 일리가 있겠지. 그 충고를 따르렴. 난 바쁘거든.
+00304	T|centipede1.tlk|sound/character/centipede/vo/cpd001.wav	You pathetic and wretched excuse for warriors! Form a line!	한심하고 비참한 전사 나부랭이들! 대열을 갖춰라!
+00305	T|centipede1.tlk|sound/character/centipede/vo/cpd002.wav	Bring the intruder to my den. I will punish her insolence and dispose of her!	침입자를 내 소굴로 데려와라. 그 건방진 계집을 벌하고 처치해 주마!
+00306	T|centipede1.tlk|sound/character/cheshire_cat/vo/catz215.wav	If your stature were an illness, it seems the Centipede dispenses medicine to make you well.	네 키가 병이라면, 지네가 널 낫게 할 약을 내주는 모양이구나.
+00307	T|centipede1.tlk|sound/character/cheshire_cat/vo/catz217.wav	Confidence and rashness are sides of a single coin. Please remember, you're about as big as a middling-size garden slug. Until you find the magic mushroom, get used to it.	자신감과 무모함은 한 동전의 양면이야. 기억해 둬. 지금 넌 어중간한 크기의 정원 민달팽이만 해. 마법 버섯을 찾을 때까지는 익숙해져야 해.
+00308	T|centipede1.tlk|sound/character/cheshire_cat/vo/catz218.wav	I'm afraid I have to expel a rather ferocious hairball. You're on your own, girl.	미안하지만 꽤 사나운 헤어볼을 토해 내야 해서. 이제 혼자 해결하렴, 아가씨.
+00309	T|centipede2.tlk|sound/character/alice/vo/alcz2030.wav	I wish I were hallucinating. What a horrible choice. Eat a toadstool, or remain food for insects.	환각이었으면 좋겠어. 끔찍한 선택이야. 독버섯을 먹든가, 벌레의 먹이로 남든가.
+00310	T|centipede2.tlk|sound/character/cheshire_cat/vo/catz219.wav	I've never trusted toadstools; but I suppose some must have their good points.	독버섯은 믿어 본 적이 없지만, 장점이 있는 것도 있긴 하겠지.
+00311	T|centipede2.tlk|sound/character/cheshire_cat/vo/catz220.wav	It's rude to eat and run; but sometimes it's unavoidable.	먹고 도망치는 건 무례하지만, 때로는 어쩔 수 없는 법이지.
+00312	T|centipede2.tlk|sound/character/cheshire_cat/vo/cat026.wav	Those who say there's nothing like a nice cup of tea for calming the nerves, never had real tea. It's like a syringe of adrenaline straight to the heart.	차 한 잔이 신경을 가라앉히는 데 최고라고 말하는 이들은 진짜 차를 마셔 본 적이 없는 거야. 이건 심장에 곧바로 놓는 아드레날린 주사 같거든.
+00313	T|fortress1.tlk|sound/character/alice/vo/alcz1018.wav	What items exactly?	정확히 어떤 물건인가요?
+00314	T|fortress1.tlk|sound/character/gnome/elder/vo/go1008.wav	There's a Skool, inside the Fortress, where you'll find certain items for creating a concoction that will make you small.	요새 안에 스쿨이 있다네. 거기서 몸을 작게 만들어 줄 약을 조제하는 데 필요한 물건들을 구할 수 있지.
+00315	T|fortress1.tlk|sound/character/gnome/elder/vo/go1009.wav	Items. Items, girl. You'll know them when you see them. Speaking of seeing things, we should avoid the Card Guards' notice, hang on! . . . Ahhhhhh! -- DAMNIT! We've been seen.	물건이라니까, 아가씨. 보면 알게 될 게야. 보는 얘기가 나왔으니 말인데, 카드 경비병들 눈에 띄면 안 되니 잠깐 기다려! ...으아아아악! -- 젠장! 들켰어.
+00316	T|fortress1.tlk|sound/character/gnome/elder/vo/go1010.wav	Eventually you must break through such walls... but for now, jump!	언젠가는 저런 벽을 뚫어야 하겠지만... 지금은 뛰게!
+00317	T|fortress1.tlk|sound/character/cheshire_cat/vo/catz120.wav	Entering Skool requires a real leap of logic!	스쿨에 들어가려면 논리의 도약이 필요하지!
+00318	T|fortress1.tlk|sound/character/cheshire_cat/vo/catz109.wav	Protective walls may impede you. But the walls most difficult to penetrate are those that surround our hearts.	방어벽은 널 막을 수 있어. 하지만 가장 뚫기 어려운 벽은 우리 마음을 둘러싼 벽이야.
+00319	T|fortress2.tlk|sound/character/alice/vo/alcz1019.wav	He was a bit vague... but whether by design, or from ignorance or out of fear, I don't know.	그는 좀 모호했어... 일부러인지, 몰라서인지, 겁이 나서인지는 알 수 없지만.
+00320	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz112.wav	Cling closely to the path, Alice. A fall will dash your head along with all our hopes.	길에서 벗어나지 마, 앨리스. 떨어지면 네 머리뿐 아니라 우리 모두의 희망도 박살 나.
+00321	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz113.wav	Inside the wall is not inside the Fortress. The old Gnome was short on details.	벽 안쪽이 곧 요새 안은 아니야. 그 늙은 노움은 설명이 부족했어.
+00322	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz114.wav	The Guards are tools of the Queen. All suits are dolts. But dangerous.	경비병들은 여왕의 도구야. 카드 무늬는 하나같이 멍청이들이지. 하지만 위험해.
+00323	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz115.wav	Boojums have revolting manners. They'll eat anything. Dispose of them or become a meal.	부줌은 예의라고는 없는 역겨운 놈들이야. 뭐든 먹어 치우지. 처치하지 않으면 밥이 될 거야.
+00324	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz116.wav	The proper order of things is often a mystery to me. You, too?	사물의 올바른 순서는 내게도 종종 수수께끼야. 너도 그래?
+00325	T|fortress2.tlk|sound/character/cheshire_cat/vo/catz117.wav	That savage shriek is the mere tip of the iceberg that is the Boojum's repulsive personality.	저 사나운 비명은 부줌의 역겨운 성격 중 빙산의 일각일 뿐이야.
+00326	T|funhouse.tlk|sound/character/alice/vo/alcz3006.wav	Despicable, grotesque, and smelly louts; I'll fill your bellies, alright!	비열하고 흉측하고 냄새나는 불한당들! 배가 터지게 먹여 주지!
+00327	T|funhouse.tlk|sound/character/alice/vo/alcz3008.wav	I only take mine with friends.	난 친구들과 함께일 때만 먹어.
+00328	T|funhouse.tlk|sound/character/alice/vo/alcz3009.wav	And you would know!	당신이야 잘 알겠지!
+00329	T|funhouse.tlk|sound/character/alice/vo/alcz3010.wav	I fear nothing.	난 두려운 게 없어.
+00330	T|funhouse.tlk|sound/character/alice/vo/alcz3011.wav	How? Tell me. What do you mean?	어떻게? 말해 봐. 무슨 뜻이야?
+00331	T|funhouse.tlk|sound/character/tweedle/vo/tde001.wav	Look, Dum, it's whatshername, from the Neurotics' Ward. Nurse's favorite lunatic.	봐, 덤. 신경증 병동에 있던 걔잖아, 이름이 뭐더라. 간호사가 제일 아끼는 미치광이.
+00332	T|funhouse.tlk|sound/character/tweedle/vo/tde002.wav	She'll need more medicine. Strong medicine.	약이 더 필요하겠는걸. 독한 약으로.
+00333	T|funhouse.tlk|sound/character/tweedle/vo/tde003.wav	Doubt it. She never finishes her grub at the asylum. She had any meat on her, she'd make a delectable dish.	글쎄다. 정신병원에서도 밥을 제대로 먹은 적이 없잖아. 살점이 좀 붙어 있었으면 맛있는 요리가 됐을 텐데.
+00334	T|funhouse.tlk|sound/character/tweedle/vo/tdm001.wav	Oh, yeah? Scrawny, ain't she? Who let her out, then? They'll blame us, most like.	오, 그래? 비쩍 말랐네. 근데 누가 내보낸 거야? 아마 우리 탓을 할걸.
+00335	T|funhouse.tlk|sound/character/tweedle/vo/tdm002.wav	She got anything to eat?	쟤, 먹을 거 좀 있나?
+00336	T|funhouse.tlk|sound/character/alice/vo/alcz3007.wav	Spare me the platitude. Do you have any useful advice?	뻔한 소리는 집어치워. 쓸 만한 조언은 없어?
+00337	T|funhouse.tlk|sound/character/mad_hatter/vo/mhat001.wav	Bad timing. Pity. Reliable help is so hard to find these days. Come in my dear. You're just in time for tea.	때가 안 좋군. 안타깝게도. 요즘은 믿을 만한 일손 구하기가 참 어렵거든. 들어와, 아가씨. 마침 차 마실 시간이야.
+00338	T|funhouse.tlk|sound/character/mad_hatter/vo/mhat002.wav	Count me to be among them. Accurately. I mean, honestly. That's the truth. Oh, I quite forgot. You and the truth are not on familiar terms.	나도 그 축에 넣어 줘. 정확히. 아니, 솔직히 말이야. 그게 진실이거든. 아, 깜빡했군. 넌 진실과 친한 사이가 아니었지.
+00339	T|funhouse.tlk|sound/character/mad_hatter/vo/mhat003.wav	Truth is always bitter to those who fear it.	진실은 그걸 두려워하는 이에게 언제나 쓴 법이야.
+00340	T|funhouse.tlk|sound/character/mad_hatter/vo/mhat004.wav	False. You fear much . . . a return trip to the asylum, for example. . . the memories that drove you there. . . more years in, shall we say, supervised hospitalization . . . ah yes, you fear much. Of course, all that might be avoided.	거짓이야. 넌 두려운 게 많지... 정신병원으로 돌아가는 것이라든가... 너를 거기로 몰아넣은 기억들... 이른바 감독 하의 입원 생활이 몇 해 더 이어지는 것이라든가... 아, 그래, 두려운 게 많지. 물론 그 모든 걸 피할 수도 있어.
+00341	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz304.wav	Seek and ye shall find, they say. But they don't say what you'll find.	구하라, 그러면 찾을 것이라고들 하지. 하지만 무엇을 찾게 될지는 말해 주지 않아.
+00342	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz305.wav	Paths that end in trouble are all the same. They only appear different when you don't know where they lead.	곤경으로 끝나는 길은 모두 똑같아. 어디로 이어지는지 모를 때만 달라 보일 뿐이지.
+00343	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz306.wav	A reflection sometimes exposes more reality than the object it echoes.	비친 모습이 때로는 본체보다 더 많은 현실을 드러내.
+00344	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz307.wav	Don't get spun, whirled, twisted, gyrated, sloshed, or tossed. Avoid false moves.	돌고, 휘돌고, 뒤틀리고, 빙빙 돌고, 휘청이고, 내던져지지 마. 헛디디지 않도록 조심해.
+00345	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz309.wav	Look straight ahead; or askance. Whichever way you choose, you must always look in the right direction.	똑바로 보든 곁눈질로 보든 상관없어. 어느 쪽을 택하든 언제나 옳은 방향을 바라봐야 해.
+00346	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz310.wav	The bigger they are, the harder they fall.	덩치가 클수록 넘어질 때 더 세게 쓰러지는 법이야.
+00347	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz311.wav	Use their size against them.	놈들의 덩치를 역이용해.
+00348	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz312.wav	Seek the scattered pieces of the Eye Staff, Alice. I feel its power here.	흩어진 눈알 지팡이 조각들을 찾아, 앨리스. 이곳에서 그 힘이 느껴져.
+00349	T|funhouse.tlk|sound/character/cheshire_cat/vo/catz313.wav	Each piece brings you closer to the endgame. But alone, each is worth less than a matchstick.	조각 하나하나가 널 최후의 순간에 가까이 데려다줘. 하지만 혼자서는 하나하나가 성냥개비만도 못해.
+00350	T|garden1.tlk|sound/character/alice/vo/alcz2020b.wav	I'm not on holiday.	난 휴가 중이 아니야.
+00351	T|garden1.tlk|sound/character/alice/vo/alcz2021.wav	Lucky me...	난 정말 운도 좋지...
+00352	T|garden1.tlk|sound/character/alice/vo/alcz2022.wav	What do you mean? You're the one who didn't wait! I have reason...	무슨 소리야? 기다려 주지 않은 건 그쪽이잖아! 나한테도 이유가...
+00353	T|garden1.tlk|sound/character/alice/vo/alcz2023.wav	I remember him well. Thin-skinned. Ill-tempered. Smokes too much. Disagreeable smell. Why do I need him?	그 사람 잘 기억나. 예민하고. 성질 고약하고. 담배를 너무 피우고. 불쾌한 냄새까지. 내가 왜 그가 필요하지?
+00354	T|garden1.tlk|sound/character/mock_turtle/vo/mkt010.wav	Finish what you start please! Remember, you're just a visitor. We have to live here.	시작한 일은 끝내 줘! 넌 그저 방문객일 뿐이잖아. 우리는 여기서 살아야 한다고.
+00355	T|garden1.tlk|sound/character/mock_turtle/vo/mkt011.wav	And I'm not ungrateful... You're an honorary reptile!	그리고 나도 배은망덕한 건 아니야... 넌 명예 파충류야!
+00356	T|garden1.tlk|sound/character/mock_turtle/vo/mkt012.wav	You'll think so when you're under water...	물속에 들어가면 그렇게 생각하게 될걸...
+00357	T|garden1.tlk|sound/character/white_rabbit/vo/rbt001.wav	You've taken your sweet time.	참 느긋하게도 오셨네요.
+00358	T|garden1.tlk|sound/character/white_rabbit/vo/rbt002.wav	Forget reasons, they're useless. Caterpillar is waiting.	이유 따윈 잊어요. 소용없어요. 애벌레가 기다리고 있어요.
+00359	T|garden1.tlk|sound/character/white_rabbit/vo/rbt003.wav	No one's wiser in Wonderland. Only he knows what you must do to save us. Now, follow closely. The way is treacherous. We have so far to go, and so little time to get there.	원더랜드에서 그분보다 현명한 이는 없어요. 우리를 구하려면 무엇을 해야 하는지 아는 건 그분뿐이에요. 자, 바짝 따라와요. 길이 위험해요. 갈 길은 먼데 시간은 너무 적어요.
+00360	T|garden1.tlk|sound/character/cheshire_cat/vo/catz212.wav	Don't lose him. He's not the brightest star in the galaxy. But he shines at one thing.	그를 놓치지 마. 은하에서 가장 밝은 별은 아니지만, 한 가지만큼은 빛나거든.
+00361	T|garden1.tlk|sound/character/cheshire_cat/vo/catz214.wav	Even pebbles terrorize the tiny. But you must risk them. Caterpillar is waiting.	조약돌조차 작은 이에겐 공포지. 하지만 감수해야 해. 애벌레가 기다리고 있어.
+00362	T|garden2.tlk|sound/character/alice/vo/alcz2024.wav	Everyone I love dies violently... unnaturally. I'm cursed. Why go on? I'll just hurt others...	내가 사랑하는 사람은 모두 끔찍하게... 부자연스럽게 죽어. 난 저주받았어. 왜 계속 살아야 하지? 남들만 해칠 텐데...
+00363	T|garden2.tlk|sound/character/white_rabbit/vo/rbt004.wav	Strange how quiet it is here, now. I don't like it. Caterpillar is just beyond the clearing, Alice. Let's sacrifice stealth for speed.	지금 여긴 이상하게 조용해요. 마음에 안 들어요. 애벌레는 저 공터 바로 너머에 있어요, 앨리스. 은밀함은 버리고 속도를 택해요.
+00364	T|garden2.tlk|sound/character/cheshire_cat/vo/catz207.wav	Go with the flow. Whatever floats will do.	흐름에 몸을 맡겨. 뜨는 거라면 뭐든 괜찮아.
+00365	T|garden2.tlk|sound/character/cheshire_cat/vo/catz213.wav	No time for self-pity. Evade these savage soldiers and find Caterpillar.	자기 연민에 빠질 시간 없어. 저 사나운 병사들을 피해서 애벌레를 찾아.
+00366	T|garden4.tlk|sound/character/alice/vo/alcz2025.wav	But rabbit never told me why... and now he's gone.	하지만 토끼는 이유를 말해 주지 않았어요... 그런데 이제는 가 버렸고요.
+00367	T|garden4.tlk|sound/character/alice/vo/alcz2026.wav	I barely recognize this terrible place. What is it to me?	이 끔찍한 곳은 거의 알아볼 수도 없어요. 저와 무슨 상관이죠?
+00368	T|garden4.tlk|sound/character/alice/vo/alcz2027.wav	Why must I suffer...?	제가 왜 괴로워해야 하죠...?
+00369	T|garden4.tlk|sound/character/alice/vo/alcz2028.wav	What do you think I must do?	제가 뭘 해야 한다고 생각하세요?
+00370	T|garden4.tlk|sound/character/alice/vo/alcz2029.wav	I believe my arms are adequate. Indeed, I do.	제 무장이면 충분하다고 생각해요. 정말로요.
+00371	T|garden4.tlk|sound/character/caterpillar/vo/cpl001.wav	Ah Alice... you've returned.	아, 앨리스... 돌아왔구나.
+00372	T|garden4.tlk|sound/character/caterpillar/vo/cpl002.wav	Why? Wonderland is severely damaged. You must set things right, that's why.	왜냐고? 원더랜드가 심하게 망가졌기 때문이다. 네가 바로잡아야 해. 그래서다.
+00373	T|garden4.tlk|sound/character/caterpillar/vo/cpl003.wav	It's home... Well, it could be. Having lost what you loved, you nearly wiped us out. You've started to rebuild. Your task, however, and your pain are not over.	이곳은 집이다... 아니, 그럴 수도 있지. 사랑하던 것을 잃은 네가 우리를 거의 멸망시킬 뻔했다. 이제 재건을 시작했구나. 하지만 네 임무도, 네 고통도 아직 끝나지 않았다.
+00374	T|garden4.tlk|sound/character/caterpillar/vo/cpl004.wav	Because your mind is fouled by self-deception. Even your fantasies have fragmented into tortured versions of themselves. You are wracked with guilt because you survived, and you dread the prospect of a life alone.	네 마음이 자기기만으로 더럽혀졌기 때문이다. 네 환상조차 고문당한 듯 뒤틀린 조각들로 부서졌다. 너는 살아남았다는 죄책감에 시달리고, 홀로 살아갈 앞날을 두려워한다.
+00375	T|garden4.tlk|sound/character/caterpillar/vo/cpl005.wav	Destroy the Queen of Hearts. Wonderland, and your entire world can become whole again. I need to rest now. You need to regain your human size. Grow up, Alice. Embrace the truth.	하트 여왕을 쓰러뜨려라. 그러면 원더랜드와 네 온 세상이 다시 온전해질 수 있다. 나는 이제 쉬어야겠다. 너는 인간의 크기를 되찾아야 한다. 어른이 되어라, 앨리스. 진실을 받아들여라.
+00376	T|garden4.tlk|sound/character/caterpillar/vo/cpl006.wav	Travel to the Fungiferous Forest, now, and nibble from the Mushroom of Life. Take great care. The voracious Centipede jealously guards it, and rules over what you require.	지금 곧 버섯의 숲으로 가서 생명의 버섯을 한입 베어 물어라. 각별히 조심해라. 탐욕스러운 지네가 그것을 질투하며 지키고 있고, 네게 필요한 것을 쥐고 군림하고 있다.
+00377	T|grounds1.tlk|sound/character/alice/vo/alcz5001.wav	Must I fight on? Can't the Red Queen be persuaded to surrender?	계속 싸워야 하나요? 붉은 여왕을 설득해서 항복시킬 순 없을까요?
+00378	T|grounds1.tlk|sound/character/alice/vo/alcz5002.wav	I'm not sure I know how to lead.	제가 어떻게 이끌어야 할지 모르겠어요.
+00379	T|grounds1.tlk|sound/character/jabberwock/vo/jbwk005.wav	How typical. How foolish you were to think you could overcome your guilt.	뻔하군. 죄책감을 이겨 낼 수 있다고 생각하다니, 얼마나 어리석었는가.
+00380	T|grounds1.tlk|sound/character/gryphon/vo/gry009.wav	You've destroyed her guardian, Alice, and avenged my death. Enter the ultimate battle.	그대가 여왕의 수호자를 쓰러뜨리고 내 죽음의 복수까지 해 주었소, 앨리스. 이제 최후의 전투에 나서시오.
+00381	T|grounds1.tlk|sound/character/gryphon/vo/gry010.wav	True words and logic rarely defeat evil intent.  She is still strong. And so many have been harmed. They want revenge, which we call justice. She made this world, and she must pay. You must lead our forces against her.	진실한 말과 논리로 악의를 꺾는 일은 드물소. 그녀는 아직 강하오. 그리고 너무 많은 이들이 해를 입었소. 그들은 복수를 원하고, 우리는 그것을 정의라 부르오. 이 세계를 만든 것은 그녀이니, 그녀가 대가를 치러야 하오. 그대가 우리 군을 이끌고 그녀에게 맞서야 하오.
+00382	T|grounds1.tlk|sound/character/gryphon/vo/gry011.wav	Do your best, Alice; you can only do your best; you can always do . . . best.	최선을 다하시오, 앨리스. 그대가 할 수 있는 건 최선뿐이오. 언제나 할 수 있는 건... 최선이오.
+00383	T|grounds1.tlk|sound/character/cheshire_cat/vo/catz508.wav	Without Gryphon, our forces are leaderless and a battle has begun.  Deliver from this evil, or let us perish.	그리핀이 없어 우리 군은 이끌 자가 없고, 전투는 이미 시작되었어. 이 악에서 우리를 구해 줘. 아니면 우리가 스러지도록 내버려 둬.
+00384	T|grounds2.tlk|sound/character/cheshire_cat/vo/catz508.wav	Without Gryphon out forces are leaderless. And a battle has begun. Deliver us from this evil. Or let us perish.	그리핀이 없어 우리 군은 이끌 자가 없고, 전투는 이미 시작되었어. 이 악에서 우리를 구해 줘. 아니면 우리가 스러지도록 내버려 둬.
+00385	T|grounds2.tlk|sound/character/cheshire_cat/vo/catz509.wav	Defeat looms over your allies. Total ruin will consume us unless you destroy the Queen. End this carnage. Go to the Castle Keep. You are our only hope for survival.	네 동료들에게 패배가 드리우고 있어. 여왕을 쓰러뜨리지 않으면 완전한 파멸이 우리를 삼킬 거야. 이 살육을 끝내 줘. 성의 중심 성채로 가. 네가 우리가 살아남을 유일한 희망이야.
+00386	T|gvillage.tlk|sound/character/white_rabbit/vo/rbt000.wav	Please don't dawdle, Alice. We're very late indeed!	꾸물대지 마세요, 앨리스. 우린 정말 늦었다고요!
+00387	T|gvillage.tlk|sound/character/alice/vo/alcz1001.wav	You've gone quite mangy, Cat, but your grin's a comfort.	꽤 꾀죄죄해졌구나, 고양이. 그래도 네 웃음은 위안이 돼.
+00388	T|gvillage.tlk|sound/character/alice/vo/alcz1002.wav	Wonderland's become quite strange. How is one to find her way?	원더랜드가 아주 이상해졌네. 어떻게 길을 찾으라는 거지?
+00389	T|gvillage.tlk|sound/character/alice/vo/alcz1010.wav	And if not, there may be more than one way to skin a cat, if you'll pardon the expression.	안 되면 방법이 한 가지만 있는 건 아닐 거야. 고양이 가죽을 벗기는 방법도 여러 가지라고 하잖아. 이런 표현은 양해해 줘.
+00390	T|gvillage.tlk|sound/character/cheshire_cat/vo/catz102.wav	As knowing where you're going is preferable to being lost, ask. Rabbit knows a thing or two. And I, myself, don't need a weathervane to tell which way the wind blows.	어디로 가는지 아는 편이 헤매는 것보다 낫지. 그러니 물어봐. 토끼는 아는 게 좀 있어. 나는 바람이 어느 쪽으로 부는지 알려 줄 풍향계 따윈 필요 없고.
+00391	T|gvillage.tlk|sound/character/cheshire_cat/vo/catz103.wav	Let your need guide your behavior. Suppress your instinct to lead. Pursue Rabbit.	필요가 네 행동을 이끌게 하렴. 앞장서려는 본능은 누르고. 토끼를 따라가.
+00392	T|gvillage.tlk|sound/character/cheshire_cat/vo/catz101.wav	And you've picked up a bit of an attitude. Still curious, and willing to learn, I hope.	그새 태도가 좀 건방져졌구나. 여전히 호기심이 많고 배울 마음이 있길 바라.
+00393	T|gvillage.tlk|sound/character/cheshire_cat/vo/catz106.wav	Doors have locks, locks need keys, which you don't have. Let's hope the Doors are open.	문에는 자물쇠가 있고, 자물쇠에는 열쇠가 필요한데 넌 열쇠가 없지. 문이 열려 있기만을 바랄 수밖에.
+00394	T|gvillage.tlk|sound/character/cheshire_cat/vo/catz107.wav	Most unpleasant metaphor. Please avoid it in the future.	아주 불쾌한 비유구나. 앞으론 삼가 줘.
+00395	T|gvillage.tlk|sound/character/gnome/torch/vo/gt1001.wav	Our land is destroyed; our spirit crushed.	우리 땅은 파괴되고 우리 기백은 꺾였다네.
+00396	T|gvillage.tlk|sound/character/gnome/torch/vo/gt1002.wav	Slavery and happiness do not dwell in the same house.	노예 신세와 행복은 한 지붕 아래 살지 못한다네.
+00397	T|gvillage.tlk|sound/character/gnome/torch/vo/gt2001.wav	Stir up no trouble, stranger. The Red Queen's agents are ruthless.	분란은 일으키지 말게, 이방인. 붉은 여왕의 앞잡이들은 무자비하다네.
+00398	T|gvillage.tlk|sound/character/gnome/torch/vo/gt2002.wav	Defiance is useless. While the Queen reigns, only death can release us from this misery.	반항은 소용없다네. 여왕이 군림하는 한, 죽음만이 이 비참함에서 우리를 풀어 줄 걸세.
+00399	T|gvillage.tlk|sound/character/gnome/torch/vo/gt3001.wav	The truth would reduce you to a blubbering baby... Are you the savior Rabbit has been telling us about all this time?	진실을 알면 자네는 훌쩍이는 아기처럼 될 걸세... 혹시 자네가 토끼가 그동안 줄곧 얘기해 온 구세주인가?
+00400	T|gvillage.tlk|sound/character/gnome/torch/vo/gt3002.wav	Calls for serious twisting. You'll need to go sideways, not forward. If I knew how, I'd go sideways myself.	제대로 비틀어야 하네. 앞이 아니라 옆으로 가야 해. 방법을 안다면 나도 옆으로 가 봤을 걸세.
+00401	T|gvillage.tlk|sound/character/gnome/torch/vo/gt3003.wav	The Fortress of Doors holds such secrets. But it will take more than a wish to get inside.	문들의 요새에는 그런 비밀이 있지. 하지만 안에 들어가려면 소원만으로는 어림도 없네.
+00402	T|gvillage.tlk|sound/character/gnome/torch/vo/gt4001.wav	Rabbit told us a champion would come. Are you that champion?	토끼가 용사가 올 거라고 했네. 자네가 그 용사인가?
+00403	T|gvillage.tlk|sound/character/gnome/torch/vo/gt4002.wav	Oh no. Wouldn't dare. Since the upheaval we've all become gutless half-wits. I can barely risk crossing the road. . . But, make your way to the mines--the deepest pit--there's one wiser and braver than myself who might help. He still lives free.	오, 아니야. 감히 못 하지. 그 난리 이후로 우리는 모두 배짱 없는 멍청이가 됐다네. 길 하나 건너는 것도 겨우 감행하는 처지야... 하지만 광산, 가장 깊은 구덩이로 가 보게. 나보다 현명하고 용감한 이가 도와줄지도 모르네. 그는 아직 자유롭게 살고 있다네.
+00404	T|gvillage.tlk|sound/character/alice/vo/alcz1003.wav	Why does everyone here seem hostile? Or demented for that matter?	여기 사람들은 왜 하나같이 적대적이지? 아니면 정신이 나갔거나?
+00405	T|gvillage.tlk|sound/character/alice/vo/alcz1004.wav	Reminds me of the asylum. Is there no joy here?	정신병원이 떠올라. 여긴 기쁨이라곤 없는 거야?
+00406	T|gvillage.tlk|sound/character/alice/vo/alcz1005.wav	I'm not afraid of her, or her creatures. Never was, really. You should stand up to them.	난 그녀도, 그녀의 괴물들도 두렵지 않아요. 사실 두려웠던 적도 없고요. 당신들도 맞서야 해요.
+00407	T|gvillage.tlk|sound/character/alice/vo/alcz1006.wav	Or her death, I suppose.	아니면 그녀의 죽음이겠죠.
+00408	T|gvillage.tlk|sound/character/alice/vo/alcz1007.wav	Everyone seems completely dejected. Are things really as bad as all that?	다들 완전히 의기소침해 보이네요. 정말 그렇게까지 나쁜가요?
+00409	T|gvillage.tlk|sound/character/alice/vo/alcz1008.wav	I shouldn't think so. I'm a person... and just now I wish to get very small... about this big.	아닐 것 같은데요. 전 사람이에요... 그리고 지금은 아주 작아지고 싶어요... 이만큼요.
+00410	T|gvillage.tlk|sound/character/alice/vo/alcz1009.wav	Not twisted. Small. I wish to become about this big.	비틀리는 게 아니라 작아지는 거예요. 이만큼 작아지고 싶다고요.
+00411	T|gvillage.tlk|sound/character/alice/vo/alcz1011.wav	Perhaps. Can you get me inside the Fortress of Doors?	그럴지도요. 문들의 요새 안으로 들여보내 줄 수 있나요?
+00412	T|hatter1.tlk|sound/character/alice/vo/alcz3012.wav	Were you impolite at table? Did you slurp your tea?  Or talk while chewing? Confess your crime.	식탁에서 무례하게 굴었어? 차를 후루룩 마셨어? 아니면 씹으면서 말했어? 죄를 자백해.
+00413	T|hatter1.tlk|sound/character/alice/vo/alcz3014.wav	Both are powerful, destructive, and indiscriminately cruel. But the typhoon doesn't mean to be.	둘 다 강력하고 파괴적이고 무차별적으로 잔혹해. 하지만 태풍은 일부러 그러는 건 아니지.
+00414	T|hatter1.tlk|sound/character/alice/vo/alcz3015.wav	Oh, I beg your pardon. You are in real danger. Where is your host?	아, 미안. 너희 진짜 위험에 처했어. 주인은 어디 있어?
+00415	T|hatter1.tlk|sound/character/alice/vo/alcz3016.wav	Those two seem to barely comprehend their situation.	저 둘은 자기 처지를 거의 이해하지 못하는 것 같아.
+00416	T|hatter1.tlk|sound/character/alice/vo/alcz3017.wav	For his tea?	그의 차 때문에?
+00417	T|hatter1.tlk|sound/character/alice/vo/alcz3018.wav	That's simply awful. 6 o'clock you say?	정말 끔찍하네. 6시라고 했지?
+00418	T|hatter1.tlk|sound/character/alice/vo/alcz3019.wav	Hmm. . .Perhaps 6 comes early today.	흠... 오늘은 6시가 일찍 오려나 봐.
+00419	T|hatter1.tlk|sound/character/dormouse/vo/drms001.wav	It's just a human. Probably useless.	그냥 인간이잖아. 아마 쓸모없을걸.
+00420	T|hatter1.tlk|sound/character/dormouse/vo/drms002.wav	Or you could give us tea, if you'd prefer.	아니면 우리한테 차를 줘도 되고, 그게 좋다면.
+00421	T|hatter1.tlk|sound/character/dormouse/vo/drms003.wav	Real danger? Are we? Really? Hare, I wish to go home. Evidently I have worn out my welcome.	진짜 위험이라고? 우리가? 정말? 토끼야, 난 집에 가고 싶어. 아무래도 환영받는 시간은 끝났나 봐.
+00422	T|hatter1.tlk|sound/character/dormouse/vo/drms004.wav	Misses no opportunity to deny us our tea.  Most cruel, I'm sure. And his medicine makes me tired...	우리가 차를 못 마시게 할 기회는 절대 놓치지 않아. 정말 잔인하지. 게다가 그 약을 먹으면 졸려...
+00423	T|hatter1.tlk|sound/character/march_hare/vo/mhare001.wav	Dormy, wake up. Someone's come to release us.	도미, 일어나. 누가 우릴 풀어 주러 왔어.
+00424	T|hatter1.tlk|sound/character/march_hare/vo/mhare002.wav	Undo us, please, from this contraption.	이 장치에서 우릴 좀 풀어 줘.
+00425	T|hatter1.tlk|sound/character/march_hare/vo/mhare003.wav	We've done nothing of the kind. It's the Hatter. He's gone quite mad, if I do say so. Speaking of which, How is the Queen of Hearts not like a typhoon?	우린 그런 짓 안 했어. 모자장수 짓이야. 이런 말 하긴 뭣하지만 완전히 미쳤어. 그러고 보니 말인데, 하트 여왕은 어떤 점에서 태풍과 다를까?
+00426	T|hatter1.tlk|sound/character/march_hare/vo/mhare004.wav	Good answer. Wrong. But good.	좋은 대답이야. 틀렸지만. 그래도 좋아.
+00427	T|hatter1.tlk|sound/character/march_hare/vo/mhare005.wav	The Hatter will be here at 6. Sharp as clockwork.	모자장수는 6시에 올 거야. 시계처럼 정확하게.
+00428	T|hatter1.tlk|sound/character/gryphon/vo/gry001.wav	They're blithering idiots. But the Hatter does come at 6 on the dot.	저들은 구제불능 멍청이들이오. 하지만 모자장수가 6시 정각에 오는 건 사실이오.
+00429	T|hatter1.tlk|sound/character/gryphon/vo/gry002.wav	No. To check his cruel experiments. With gears, springs, levers, and mechanical gizzards, he seeks an impossible precision like a watchmaker obsessed with infinitesimal fractions of seconds, or a mathematician who tries to square the circle. He'll turn all the inhabitants into his automatons, or kill them in the attempt.	아니오. 그의 잔혹한 실험을 확인하러 오는 것이오. 톱니바퀴와 용수철, 지렛대, 기계 모래주머니로 불가능한 정밀함을 좇고 있소. 마치 1초의 극미한 단위에 집착하는 시계공처럼, 혹은 원을 정사각형으로 만들려는 수학자처럼 말이오. 그는 주민들을 모두 자동인형으로 만들거나, 그러다 죽이고 말 것이오.
+00430	T|hatter1.tlk|sound/character/gryphon/vo/gry003.wav	6 precisely, by that clock.	저 시계로 정확히 6시요.
+00431	T|hatter1.tlk|sound/character/cheshire_cat/vo/catz314.wav	Even I know not where the missing piece of the Eye Staff is concealed. But if a segment were secreted amidst evil and madness, I would expect to find it here.	나조차 눈알 지팡이의 빠진 조각이 어디에 숨겨져 있는지는 몰라. 하지만 악과 광기 속에 조각을 숨긴다면 여기일 거라고 짐작해.
+00432	T|hatter1.tlk|sound/character/cheshire_cat/vo/catz315.wav	The Staff lacks only the Jabberwock's eye. Though he has two, I understand he's quite fond of them both. I doubt time will change his mind. Speaking of which, where's the Hatter?	지팡이에 없는 건 재버워크의 눈뿐이야. 그에겐 눈이 두 개 있지만 둘 다 몹시 아끼는 걸로 알아. 시간이 지나도 마음이 바뀔 것 같진 않아. 시간 얘기가 나왔으니 말인데, 모자장수는 어디 있지?
+00433	T|hatter1.tlk|sound/character/cheshire_cat/vo/catz316.wav	Quick as Mercury; and mad from it... among other things. He is obsessed with time. Find him. Or your own time may be short.	수은처럼 빠르고, 그 때문에 미쳤지... 다른 이유도 있겠지만. 그는 시간에 사로잡혀 있어. 그를 찾아. 안 그러면 네 시간이 얼마 남지 않을지도 몰라.
+00434	T|hatter2.tlk|sound/character/alice/vo/alcz3020.wav	Promise only what you're prepared to deliver. I am destined to battle the Red Queen. The outcome is uncertain.	지킬 수 있는 것만 약속해야 해요. 전 붉은 여왕과 싸울 운명이에요. 결과는 알 수 없지만요.
+00435	T|hatter2.tlk|sound/character/alice/vo/alcz3021.wav	How shall we prepare for battle?	전투 준비는 어떻게 하죠?
+00436	T|hatter2.tlk|sound/character/gryphon/vo/gry004.wav	With gratitude, I offer you my services.	감사하는 마음으로 내 힘을 바치겠소.
+00437	T|hatter2.tlk|sound/character/gryphon/vo/gry005.wav	You won't fight alone. Permit me to serve as your commander. I'll muster the forces whose allegiance your courage and skill have already won.	그대 홀로 싸우게 두지 않겠소. 내가 지휘관을 맡도록 허락해 주시오. 그대의 용기와 실력이 이미 얻어 낸 충성의 군대를 내가 소집하겠소.
+00438	T|hatter2.tlk|sound/character/gryphon/vo/gry006.wav	An assault on the Queen depends on breaching the gates to her kingdom. Only the Jabberwock's Eye Staff can pry them open. If you open the gates, I'll lead the troops to victory. Let us right the wrongs of this world, together.	여왕을 공격하려면 그녀의 왕국으로 통하는 성문을 돌파해야 하오. 재버워크의 눈알 지팡이만이 그 문을 열 수 있소. 그대가 성문을 열면 내가 군대를 이끌고 승리하겠소. 함께 이 세계의 잘못을 바로잡읍시다.
+00439	T|hatter2.tlk|sound/character/mad_hatter/vo/mhat005.wav	Your hair wants cutting. And perhaps your neck could use a trim.	머리가 좀 길었군. 그리고 아마 목도 다듬어야겠어.
+00440	T|hatter2.tlk|sound/character/mad_hatter/vo/mhat006.wav	I like what I do is the same as I do what I like, don't you agree? So I do.	내가 하는 걸 좋아한다는 건 내가 좋아하는 걸 한다는 것과 같은 말 아니야? 그래서 그렇게 하지.
+00441	T|hatter2.tlk|sound/character/mad_hatter/vo/mhat007.wav	If you knew time as well as I, you wouldn't dream of wasting it.	네가 나만큼 시간을 안다면 낭비할 생각은 꿈에도 못 할 거야.
+00442	T|hatter2.tlk|sound/character/mad_hatter/vo/mhat008.wav	The Queen accused me of murdering time. Very wrong. I have another object in mind.	여왕은 내가 시간을 죽였다고 비난했지. 아주 틀린 소리야. 내가 노리는 건 따로 있거든.
+00443	T|hatter2.tlk|sound/character/cheshire_cat/vo/cat022.wav	This unique watch stops time... for a time. Unlike death... time moves on. Those who stood still with time move on also... unless they're dead.	이 독특한 시계는 시간을... 한동안 멈춰. 죽음과 달리... 시간은 다시 흘러. 시간과 함께 멈춰 있던 이들도... 죽지만 않았다면 다시 움직이지.
+00444	T|hedge1.tlk|sound/character/cheshire_cat/vo/catz501.wav	Find the Queen. Ignore her pledge to decapitate intruders, at your peril.	여왕을 찾아. 침입자의 목을 베겠다는 그녀의 맹세를 무시한다면 위험해질 거야.
+00445	T|hedge2.tlk|sound/character/cheshire_cat/vo/catz502.wav	The Queen. The Queen. My lower incisors for the Queen. Where is that wretched creature?	여왕, 여왕. 여왕만 찾을 수 있다면 아랫니라도 내놓겠어. 그 못된 것은 어디 있지?
+00446	T|hedge3.tlk|sound/character/cheshire_cat/vo/catz503.wav	Look for the Queen, but remember: She also has eyes for you.	여왕을 찾아. 하지만 기억해. 그녀도 너를 노리고 있다는 걸.
+00447	T|jlair1.tlk|sound/character/alice/vo/alcz4001.wav	It talks like I'm on holiday, Cat. Wandering about, having a bit of fun. The oracle's an idiot.	마치 내가 휴가라도 온 것처럼 말하네, 고양이. 돌아다니면서 재미나 보는 것처럼. 그 신탁은 바보야.
+00448	T|jlair1.tlk|sound/character/alice/vo/alcz4002.wav	You? Bizarre creature! I was beginning to like you.	너? 이상한 녀석! 이제 막 좋아하기 시작했는데.
+00449	T|jlair1.tlk|sound/character/alice/vo/alcz4003.wav	I don't have the final piece of the Staff. Without his eye, how can it be done?	지팡이의 마지막 조각이 없어. 그의 눈 없이 어떻게 해낼 수 있겠어?
+00450	T|jlair1.tlk|sound/character/alice/vo/alcz4004.wav	What good are you to me? I'm supposed to attack this ferocious creature; but I'm not even sure this is my fight.	당신이 저한테 무슨 소용이죠? 이 흉포한 괴물을 공격해야 한다는데, 이게 제 싸움인지조차 확신이 안 서요.
+00451	T|jlair1.tlk|sound/character/alice/vo/alcz4005.wav	Save myself? From death? Is that it? Is that why I've come here? I'm not afraid to die. 'times I've welcomed death.	저를 구하라고요? 죽음에서요? 그런 건가요? 그래서 제가 여기 온 건가요? 전 죽는 게 두렵지 않아요. 가끔은 죽음을 반기기도 했는걸요.
+00452	T|jlair1.tlk|sound/character/alice/vo/alcz4006.wav	What then? A fate worse than death? I'm not stupid. Don't make me think you are.	그럼 뭐죠? 죽음보다 더한 운명인가요? 전 바보가 아니에요. 당신이 바보라고 생각하게 만들지 마세요.
+00453	T|jlair1.tlk|sound/character/alice/vo/alcz4007.wav	What I've been feeling, I am beginning to understand. I broke this world; and only I can repair it.	내가 느껴 온 것을 이제 조금씩 이해하기 시작했어. 이 세계를 망가뜨린 건 나야. 그리고 그걸 고칠 수 있는 것도 나뿐이야.
+00454	T|jlair1.tlk|sound/character/caterpillar/vo/cpl010.wav	The time for action has arrived. You should not waste a day. No lame excuses do you contrive, nor tolerate delay.	행동할 때가 왔다. 하루도 허비해선 안 된다. 궁색한 변명을 지어내지도, 지체를 용납하지도 마라.
+00455	T|jlair1.tlk|sound/character/caterpillar/vo/cpl011.wav	Like me or don't. But believe me. The Jabberwock must be eliminated--now. Blow open the gates and confront the Queen.	날 좋아하든 말든 상관없다. 하지만 날 믿어라. 재버워크는 제거해야 한다. 지금 당장. 성문을 폭파하고 여왕과 맞서라.
+00456	T|jlair1.tlk|sound/character/caterpillar/vo/cpl012.wav	I don't know. But you must. The situation is urgent.	나도 모른다. 하지만 너는 알아야 한다. 상황이 급하다.
+00457	T|jlair1.tlk|sound/character/caterpillar/vo/cpl013.wav	It's no one else's, Alice. Only you can save yourself.	다른 누구의 일도 아니다, 앨리스. 너 자신을 구할 수 있는 건 너뿐이다.
+00458	T|jlair1.tlk|sound/character/caterpillar/vo/cpl014.wav	Not death.	죽음에서가 아니다.
+00459	T|jlair1.tlk|sound/character/caterpillar/vo/cpl015.wav	Think what you will. But know this: You withdrew from your world after the fire because you could not bear your terrible loss. When you answered Rabbit's call, you began to emerge from your tragedy. Stay on this path, Alice. Save yourself, and you will save Wonderland. You will restore us all.	무슨 생각을 하든 좋다. 하지만 이것만은 알아라. 너는 화재 후 끔찍한 상실을 견딜 수 없어서 네 세계에서 물러났다. 토끼의 부름에 응했을 때 비로소 그 비극에서 벗어나기 시작한 것이다. 이 길을 지켜라, 앨리스. 너 자신을 구하면 원더랜드도 구하게 될 것이고, 우리 모두를 되살리게 될 것이다.
+00460	T|jlair1.tlk|sound/character/caterpillar/vo/cpl016.wav	Go well, Alice. The Jabberwock waits. With Gryphon as your partner, you have reason to hope for success. He's the strongest among us.	잘 가거라, 앨리스. 재버워크가 기다리고 있다. 그리핀이 함께하니 성공을 바랄 이유가 있다. 그는 우리 중 가장 강하다.
+00461	T|jlair1.tlk|sound/character/gryphon/vo/gry007.wav	Recruit whatever allies you can, Alice. We'll need them all. I'll return with reinforcements. Take heart.	모을 수 있는 동료는 모두 모으시오, 앨리스. 전부 필요할 것이오. 나는 증원군을 데리고 돌아오겠소. 힘을 내시오.
+00462	T|jlair1.tlk|sound/character/jabberwock/vo/jbwk001.wav	You've kept me waiting, Alice. Have you never heard that punctuality's a virtue?	나를 기다리게 했구나, 앨리스. 시간 엄수가 미덕이라는 말도 못 들어 봤나?
+00463	T|jlair1.tlk|sound/character/jabberwock/vo/jbwk002.wav	You're habitually late, aren't you? Between your dim-witted daydreaming and your preening vanity the hours just fly by; there's barely time for anything else.	넌 늘 늦지, 안 그런가? 어리석은 백일몽과 거드름 피우는 허영심 사이에서 시간이 그냥 날아가 버리니, 다른 걸 할 틈은 거의 없겠지.
+00464	T|jlair1.tlk|sound/character/jabberwock/vo/jbwk003.wav	Your family was expecting you to come to them, weren't they? Perhaps they thought you might warn them of the danger... being close to the source as you were. But they waited in vain, didn't they and died for their trouble.	네 가족은 네가 찾아오기를 기다렸겠지? 불길의 근원 가까이 있던 네가 위험을 알려 주리라 생각했을지도 모르지. 하지만 헛되이 기다리다가 그 대가로 죽어 갔잖아?
+00465	T|jlair1.tlk|sound/character/jabberwock/vo/jbwk004.wav	You selfish, misbegotten, and unnatural child! You smelled the smoke. But you were in dreamland taking tea with your friends. You couldn't be bothered.  Your room was protected and spared--while your family upstairs roasted in an inferno of incredible horror.	이기적이고 못돼먹은 비정상적인 계집애! 넌 연기 냄새를 맡았잖아. 하지만 꿈나라에서 친구들과 차를 마시고 있었지. 신경 쓰기도 귀찮았던 거야. 네 방은 무사히 보호받았는데, 위층에서 네 가족은 형언할 수 없는 공포의 불지옥 속에서 타 죽어 갔지.
+00466	T|jlair1.tlk|sound/character/cheshire_cat/vo/catz318.wav	Confront what frightens or offends you.  Reckless or insulting talk should never go unchallenged.	두렵거나 불쾌한 것에는 맞서. 무모하거나 모욕적인 말을 그냥 넘겨서는 안 돼.
+00467	T|jlair1.tlk|sound/character/cheshire_cat/vo/catz319.wav	Gryphon's an ideal partner. Perhaps I'll just retreat for a nap	그리핀은 이상적인 파트너야. 난 물러나서 낮잠이나 잘까 봐.
+00468	T|jlair1.tlk|sound/character/cheshire_cat/vo/catz320.wav	The Queen's guardian rarely leaves his filthy lair.	여왕의 수호자는 더러운 소굴을 좀처럼 떠나지 않아.
+00469	T|jlair2.tlk|sound/character/alice/vo/alcz4008.wav	You and my dentist's assistant have much in common.	너랑 우리 치과 조수는 공통점이 많네.
+00470	T|jlair2.tlk|sound/character/alice/vo/alcz4009.wav	That the best you can do? Hurl second-rate insults? They don't hurt...	그게 한계야? 삼류 욕설이나 던지는 게? 아프지도 않아...
+00471	T|jlair2.tlk|sound/character/alice/vo/alcz4010.wav	We were all asleep. It was an accident... I...	우린 모두 잠들어 있었어. 사고였어... 난...
+00472	T|jlair2.tlk|sound/character/alice/vo/alcz4011.wav	Noooooooooooooooo...	안 돼애애애애애애...
+00473	T|jlair2.tlk|sound/character/gryphon/vo/gry008.wav	Hurry, Alice. The Eye Staff is yours, the troops are gathered, everything is ready.  I'll deal with the Jabberwock.  You are our champion. Lead us to victory in Queensland.	서두르시오, 앨리스. 눈알 지팡이는 그대의 것이고, 군대도 모였으며, 모든 준비가 끝났소. 재버워크는 내가 상대하겠소. 그대는 우리의 용사요. 퀸즐랜드에서 우리를 승리로 이끄시오.
+00474	T|jlair2.tlk|sound/character/cheshire_cat/vo/catz321.wav	The vile creature is a killer. And even his words can wound.	저 추악한 놈은 살인자야. 그리고 말조차 상처를 줄 수 있어.
+00475	T|jlair2.tlk|sound/character/cheshire_cat/vo/catz322.wav	It's impolite to keep royalty waiting. But the price of good manners may be too high. This Queen's a real bitch.	왕족을 기다리게 하는 건 무례하지. 하지만 예의의 대가가 너무 클지도 몰라. 이 여왕은 정말 못된 년이야.
+00476	T|keep.tlk|sound/character/cheshire_cat/vo/catz510a.wav	Bravery and I are not on intimate terms. My natural curiosity is tempered with caution--thus I've lived long.	용기와 나는 친한 사이가 아니야. 타고난 호기심도 신중함으로 눌러 놓았지. 그래서 오래 살았어.
+00477	T|keep.tlk|sound/character/cheshire_cat/vo/catz510b.wav	But now, ignoring my instinct to flee or fib, I speak the truth without regard to consequence. Your courage deserves no less.	하지만 이제는 달아나거나 거짓말하려는 본능을 무시하고, 결과를 따지지 않고 진실을 말할게. 네 용기에는 그 정도가 마땅해.
+00478	T|keep.tlk|sound/character/cheshire_cat/vo/catz510c.wav	You've suffered great pain and you've caused some; you've endured deep grief and feelings of guilt; but you will be tested by a more wrenching anguish, Alice. There is worse to come. You and this Red Queen cannot both survive.  You are two parts of the same...	넌 큰 고통을 겪었고 또 누군가에게 안겨 주기도 했어. 깊은 슬픔과 죄책감을 견뎌 왔지. 하지만 더 찢어지는 번민이 널 시험할 거야, 앨리스. 더 나쁜 일이 올 거야. 너와 이 붉은 여왕은 둘 다 살아남을 수 없어. 너희는 같은 하나의...
+00479	T|pandemonium.tlk|sound/character/alice/vo/alcz1012.wav	To benefit from your wisdom.	당신의 지혜에서 도움을 얻으려고요.
+00480	T|pandemonium.tlk|sound/character/alice/vo/alcz1013.wav	I wish to get very small. No bigger than a mouse. Do you know how I might do that?	아주 작아지고 싶어요. 생쥐보다 크지 않게요. 어떻게 하면 되는지 아세요?
+00481	T|pandemonium.tlk|sound/character/alice/vo/alcz1014.wav	I have nothing of value.	가진 건 아무것도 없어요.
+00482	T|pandemonium.tlk|sound/character/alice/vo/alcz1015.wav	What must I do?	제가 뭘 해야 하죠?
+00483	T|pandemonium.tlk|sound/character/alice/vo/alcz1016.wav	I certainly hope he is not.	그분이 아니길 간절히 바랄 뿐이에요.
+00484	T|pandemonium.tlk|sound/character/alice/vo/alcz1017.wav	I'm sure I'm very sorry for them sir. Really, I am. But what about me getting small?	그분들께는 정말 죄송해요, 어르신. 진심이에요. 하지만 제가 작아지는 건 어떻게 되는 거죠?
+00485	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1001.wav	Why do you pursue me to this deserted place...?	왜 날 이런 외딴곳까지 쫓아오는 겐가...?
+00486	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1002.wav	Even blurred vision is valued by the blind. If I were clever, would I cower in this slag heap? I'm not wise girl... I've just grown old.	눈먼 이에겐 흐릿한 시야도 값지지. 내가 영리했다면 이 쓰레기 더미에 웅크리고 있겠나? 난 현명한 게 아니라네, 아가씨... 그냥 늙었을 뿐이야.
+00487	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1003.wav	Only that? Oh yes, I could manage that... for a price.	그것뿐인가? 아, 그건 내가 해 줄 수 있지... 대가가 있다네.
+00488	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1004.wav	You have nerve and your health. Mine are nearly gone. I've seen too much suffering... and I smoke too much you see.	자네에겐 배짱과 건강이 있군. 내 것은 거의 다 사라졌지. 너무 많은 고통을 봤고... 담배도 너무 많이 피웠거든.
+00489	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1005.wav	In the Card Guards' compound a particularly rough Diamond holds the key. Retrieve it. I will... repay the favor.	카드 경비병들의 구역에 유난히 거친 다이아몬드가 열쇠를 쥐고 있다네. 그걸 되찾아 오게. 내가... 은혜는 갚겠네.
+00490	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1006.wav	You have the key! Very resourceful. Rabbit's confidence is not misplaced. He is no fool.	열쇠를 구했군! 참 수완이 좋아. 토끼의 믿음이 틀리지 않았어. 그는 바보가 아니라네.
+00491	T|pandemonium.tlk|sound/character/gnome/elder/vo/go1007.wav	Use the key to free my clan from the oppressive burden they carry. Any fight against the Queen's tyranny is a good fight. They've suffered...	그 열쇠로 내 일족을 짓누르는 억압의 짐에서 풀어 주게. 여왕의 폭정에 맞서는 싸움이라면 어떤 싸움이든 좋은 싸움이지. 그들은 고통받아 왔다네...
+00492	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz104.wav	Ignore the Queen . . . for now. Keep your eye on Rabbit.	여왕은 신경 쓰지 마... 지금은. 토끼에게서 눈을 떼지 마.
+00493	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz105.wav	Rabbit's handy with a map.  He's on the right road. And at present, you're too big to follow.	토끼는 지도를 잘 다뤄. 제대로 된 길로 가고 있지. 그런데 지금의 넌 너무 커서 따라갈 수 없어.
+00494	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz107.wav	Most unpleasant metaphor. Please avoid it in future.	아주 불쾌한 비유구나. 앞으론 삼가 줘.
+00495	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz108.wav	The Guards lack imagination. Don't play with them, unless you're ready to deal.	경비병들은 상상력이 없어. 승부를 볼 각오가 아니라면 같이 놀지 마.
+00496	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz110.wav	Odds are the next gnome will know something of value. That last idiot was nearly useless.	다음 노움은 쓸 만한 걸 알 확률이 높아. 방금 그 멍청이는 거의 쓸모가 없었으니까.
+00497	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz111.wav	The old rebel is a legend. Search the mines for him.	그 늙은 반역자는 전설이야. 광산에서 그를 찾아봐.
+00498	T|pandemonium.tlk|sound/character/cheshire_cat/vo/catz131.wav	Keys and locks like hens and cocks are often found together.	열쇠와 자물쇠는 암탉과 수탉처럼 함께 있는 경우가 많아.
+00499	T|pandemonium.tlk|sound/character/cheshire_cat/vo/cat008.wav	Hanging ropes are as good as step ladders to those who know how to use them	늘어진 밧줄도 쓸 줄 아는 이에게는 사다리나 다름없단다.
+00500	T|potears1.tlk|sound/character/alice/vo/alcz2001.wav	What's all this then? Did someone die? Have you lost your family?	대체 무슨 일이야? 누가 죽기라도 했어? 가족을 잃었어?
+00501	T|potears1.tlk|sound/character/alice/vo/alcz2002.wav	Stop that wailing, won't you?	그 울부짖는 것 좀 그만둘 수 없어?
+00502	T|potears1.tlk|sound/character/alice/vo/alcz2003.wav	Tragic, I'm sure, but I'm a bit pressed for time. Have you seen a rabbit?	비극인 건 알겠는데 내가 시간이 좀 촉박해. 혹시 토끼 못 봤어?
+00503	T|potears1.tlk|sound/character/alice/vo/alcz2004.wav	Well he's very dear to me. I must find him.	그는 나한테 아주 소중한 존재야. 꼭 찾아야 해.
+00504	T|potears1.tlk|sound/character/alice/vo/alcz2005.wav	And where does that smushy lay-about hang his hookah these days?	그럼 그 흐물흐물한 게으름뱅이는 요즘 어디에 물담뱃대를 걸어 놓고 있지?
+00505	T|potears1.tlk|sound/character/alice/vo/alcz2006.wav	Risk nothing, gain nothing.	위험을 무릅쓰지 않으면 얻는 것도 없지.
+00506	T|potears1.tlk|sound/character/alice/vo/alcz2007.wav	Then she must do it unwillingly. I'll teach her manners.	그럼 억지로라도 하게 만들어야지. 예의를 가르쳐 주겠어.
+00507	T|potears1.tlk|sound/character/mock_turtle/vo/mkt001.wav	No, my shell! The Duchess stole it and tried to eat me for lunch! Nobility must be served, I suppose...	아니, 내 등딱지! 공작 부인이 그걸 훔치고는 날 점심으로 먹으려 했어! 귀족은 대접받아야 하는 법이겠지...
+00508	T|potears1.tlk|sound/character/mock_turtle/vo/mkt002.wav	You're very cold blooded for a mammal. I was almost soup!	포유류치고는 참 냉혈한이구나. 난 하마터면 수프가 될 뻔했다고!
+00509	T|potears1.tlk|sound/character/mock_turtle/vo/mkt003.wav	Hmm... twitchy nose, shifty eyes... constantly consults his pocket watch? Most peculiar beast.	흠... 씰룩이는 코, 불안한 눈... 끊임없이 회중시계를 들여다본다고? 아주 별난 짐승이군.
+00510	T|potears1.tlk|sound/character/mock_turtle/vo/mkt004.wav	Caterpillar could help, I'm quite certain. He knows everything there is to know.	애벌레라면 도와줄 수 있을 거야, 확실해. 알 만한 건 다 아는 분이거든.
+00511	T|potears1.tlk|sound/character/mock_turtle/vo/mkt005.wav	Since the troubles began, he's in hiding. I couldn't divulge the secret. I couldn't risk telling you, without... something in return.	난리가 시작된 뒤로 그분은 숨어 지내. 비밀을 누설할 수는 없어. 뭔가... 대가 없이 알려 주는 위험은 질 수 없어.
+00512	T|potears1.tlk|sound/character/mock_turtle/vo/mkt006.wav	His whereabouts then, for my shell. The Duchess won't part with it willingly.	그럼 그분의 행방을 내 등딱지와 맞바꾸자. 공작 부인은 순순히 내놓지 않을 거야.
+00513	T|potears1.tlk|sound/character/mock_turtle/vo/mkt007.wav	You are brave. But I warn you, she treats everything as prey!	용감하구나. 하지만 경고하는데, 그녀는 눈에 보이는 건 전부 먹잇감으로 여겨!
+00514	T|potears1.tlk|sound/character/cheshire_cat/vo/catz201.wav	Rabbit's anxiety pollutes his reasoning. He begs you back to this hell-hole, then abandons you. Stop looking for good sense here. Settle for any!	토끼는 불안 때문에 판단력이 흐려졌어. 널 이 지옥 같은 곳으로 불러들여 놓고 버렸잖아. 여기서 분별을 찾으려 하지 마. 아무 분별이라도 있으면 만족해!
+00515	T|potears1.tlk|sound/character/cheshire_cat/vo/catz202.wav	A rope and net would be handy. And a circus career. Your limbs and imagination will have to suffice.	밧줄과 그물이 있으면 편하겠지. 서커스 경력도 말이야. 하지만 네 팔다리와 상상력으로 버텨야 해.
+00516	T|potears1.tlk|sound/character/cheshire_cat/vo/catz203.wav	Take the high ground, then punish these pests.	고지를 차지한 다음 이 해충들을 응징해.
+00517	T|potears1.tlk|sound/character/cheshire_cat/vo/catz204.wav	What a racket! Reminds me of your violin lessons.	이 소음 좀 봐! 네 바이올린 레슨이 떠오르는군.
+00518	T|potears1.tlk|sound/character/cheshire_cat/vo/catz205.wav	Plug that noisy orifice before we both go mad.	우리 둘 다 미쳐 버리기 전에 저 시끄러운 구멍을 틀어막아.
+00519	T|potears1.tlk|sound/character/cheshire_cat/vo/catz206.wav	The dim-witted are not ignorant. Follow Turtle and find nobility, of a sort.	둔한 자가 무지한 건 아니야. 가짜 거북을 따라가면 나름의 고귀함을 찾게 될 거야.
+00520	T|potears2.tlk|sound/character/alice/vo/alcz2009.wav	Don't I know you?	우리 전에 만난 적 있지 않아?
+00521	T|potears2.tlk|sound/character/alice/vo/alcz2010.wav	No, I've only my wits.	아니, 가진 건 재치뿐이야.
+00522	T|potears2.tlk|sound/character/alice/vo/alcz2011.wav	I must see the Duchess.	공작 부인을 만나야 해.
+00523	T|potears2.tlk|sound/character/alice/vo/alcz2012.wav	That's not right.	그건 말이 안 돼.
+00524	T|potears2.tlk|sound/character/alice/vo/alcz2013.wav	Her head?!	그녀의 머리라고?!
+00525	T|potears2.tlk|sound/character/alice/vo/alcz2014.wav	I'm here to retrieve the Turtle's shell. I won't leave without it.	가짜 거북의 등딱지를 되찾으러 왔어. 그것 없이는 안 떠나.
+00526	T|potears2.tlk|sound/character/bill/vo/bliz001.wav	Psst! Over here!	쉿! 이쪽일세!
+00527	T|potears2.tlk|sound/character/bill/vo/bliz002.wav	Bill McGill, at your service. Call me Larry... Or not. Have any brandy?	빌 맥길일세, 분부만 내리게. 래리라고 불러도 좋고... 아니어도 좋고. 브랜디 있나?
+00528	T|potears2.tlk|sound/character/bill/vo/bliz003.wav	Then you have nothing. Wits are useless here - everything is down-side up!	그럼 가진 게 없는 셈이군. 여기선 재치도 소용없네. 모든 게 거꾸로거든!
+00529	T|potears2.tlk|sound/character/bill/vo/bliz004.wav	Impossible. She only sees those who don't wish to see her.	불가능하네. 그녀는 자기를 만나고 싶어 하지 않는 자만 만나거든.
+00530	T|potears2.tlk|sound/character/bill/vo/bliz005.wav	It's perfect. She's supposed to be hiding from the Red Queen, who wants her dead.	안성맞춤이군. 그녀는 자기를 죽이려는 붉은 여왕에게서 숨어 지내야 할 처지니까.
+00531	T|potears2.tlk|sound/character/bill/vo/bliz006.wav	That, too. Ruins my home; builds this monstrosity. She's mad as monkey mash and just as tasteless. Well, never mind. We'll all perish soon enough. Sure you've no brandy?	그것도 그렇지. 내 집을 망쳐 놓고 이 흉물을 지었네. 원숭이 으깬 죽처럼 미쳤고 그만큼 맛도 없지. 뭐, 신경 쓰지 말게. 어차피 우리 모두 곧 죽을 테니. 정말 브랜디 없나?
+00532	T|potears2.tlk|sound/character/bill/vo/bliz007.wav	Won't you indeed? Stick your thumb in her eye, what! Your devoted servant, ma'am. I owe her a bad turn myself. Follow me.	정말 안 그러겠다고? 그녀의 눈을 엄지로 콱 찔러 주게, 암! 충실한 종복이 되겠네, 아가씨. 나도 그녀에게 갚을 빚이 있거든. 따라오게.
+00533	T|potears2.tlk|sound/character/alice/vo/alcz2008.wav	I wouldn't like to swim in that ooze.	저 진흙탕에서는 헤엄치고 싶지 않아.
+00534	T|potears2.tlk|sound/character/cheshire_cat/vo/catz208.wav	The leaves appear no worse for it.	나뭇잎들은 별 탈 없어 보이는데.
+00535	T|potears2.tlk|sound/character/cheshire_cat/vo/catz209.wav	Is our situation not dismal? Wonderland is so discombobulated that lady bugs have turned belligerent and enlisted in the Queen's army. Punish their conversion.	우리 처지가 참담하지 않아? 원더랜드가 어찌나 뒤죽박죽인지 무당벌레마저 호전적으로 변해서 여왕의 군대에 입대했어. 그 변절을 응징해.
+00536	T|potears2.tlk|sound/character/cheshire_cat/vo/catz210.wav	There's a distinct whiff of pepper on the wind. The Duchess must be nearby.	바람에 후추 냄새가 뚜렷하게 실려 와. 공작 부인이 가까이 있나 봐.
+00537	T|potears3.tlk|sound/character/alice/vo/alcz2015.wav	I'm not edible.	난 먹을 수 있는 게 아니야.
+00538	T|potears3.tlk|sound/character/alice/vo/alcz2016.wav	I merely wanted to ask...	난 그저 물어보려고...
+00539	T|potears3.tlk|sound/character/alice/vo/alcz2017.wav	I'll have the turtle shell now, you disgusting ogre!	이제 가짜 거북의 등딱지는 내가 가져가겠어, 이 역겨운 괴물!
+00540	T|potears3.tlk|sound/character/alice/vo/alcz2018.wav	I'll try to accomodate you!	기꺼이 맞춰 주지!
+00541	T|potears3.tlk|sound/character/alice/vo/alcz2019.wav	A simple thank-you would have been nice... I've kept my part of the bargain, Turtle.	고맙다는 말 한마디면 좋았을 텐데... 난 약속을 지켰어, 가짜 거북.
+00542	T|potears3.tlk|sound/character/bill/vo/bliz008.wav	I'll have the leeches in to handle this mess.	거머리들을 불러서 이 난장판을 처리하게 하겠네.
+00543	T|potears3.tlk|sound/character/mock_turtle/vo/mkt008.wav	At least my shell's in tolerable condition.	적어도 내 등딱지는 봐줄 만한 상태네.
+00544	T|potears3.tlk|sound/character/mock_turtle/vo/mkt009.wav	Fair enough. I'll take you on a trip. Hover around my bubbles. Cuddle up to them, never leave them. You'll muddle through.	좋아. 여행에 데려가 줄게. 내 거품 주위에 떠 있어. 거품에 바짝 붙어서 절대 떠나지 마. 어떻게든 헤쳐 나갈 거야.
+00545	T|potears3.tlk|sound/character/duchess/vo/dch001.wav	Come closer my little chick... Mmmm, properly seasoned you'd make a handsome dish.	더 가까이 오렴, 내 귀여운 병아리야... 음... 간만 잘 하면 근사한 요리가 되겠구나.
+00546	T|potears3.tlk|sound/character/duchess/vo/dch002.wav	Not a full meal, certainly. But a light snack, I think!	한 끼 식사는 못 되겠지. 하지만 가벼운 간식 정도는 되겠어!
+00547	T|potears3.tlk|sound/character/duchess/vo/dch003.wav	Speaking of axes. Chop off her head!	도끼 얘기가 나왔으니 말인데. 저 계집의 목을 쳐라!
+00548	T|potears3.tlk|sound/character/duchess/vo/dch004.wav	Over my dead body!	내 시체를 밟고 넘어가라!
+00549	T|potears3.tlk|sound/character/cheshire_cat/vo/catz211.wav	Annihilate what threatens to destroy you.	널 파괴하려는 것을 먼저 쓸어버려.
+00550	T|qlair.tlk|sound/character/alice/vo/alcz5003.wav	Who am I?	난 누구지?
+00551	T|qlair.tlk|sound/character/alice/vo/alcz5004.wav	Alice.	앨리스.
+00552	T|qlair.tlk|sound/character/queen/vo/qnr001a.wav	Off with her head!	저 계집의 목을 쳐라!
+00553	T|qlair.tlk|sound/character/queen/vo/qnr002.wav	I rule Wonderland alone. Your interference will not be tolerated. This realm is for grown-ups; raw, well-ordered, ruthless, careening on the jagged edge of reality. Self-pitying dreamers are not wanted here; they cannot survive here.	원더랜드는 나 혼자 다스린다. 네 간섭은 용납하지 않겠다. 이 왕국은 어른들의 것이다. 날것이고, 질서 정연하고, 무자비하며, 현실의 날카로운 가장자리를 질주하는 곳이지. 자기 연민에 빠진 몽상가는 이곳에 필요 없다. 이곳에서 살아남을 수도 없다.
+00554	T|qlair.tlk|sound/character/queen/vo/qnr003.wav	You fear the truth. You live in shadows. Your pathetic attempts to reclaim your sanity have failed. Retreat to the sterile safety of your self-delusions, or risk inevitable annihilation.	너는 진실을 두려워한다. 그림자 속에서 살고 있지. 이성을 되찾으려는 한심한 시도는 실패했다. 자기기만이라는 불모의 안전지대로 물러나라. 아니면 필연적인 파멸을 감수하라.
+00555	T|qlair.tlk|sound/character/queen/vo/qnr004.wav	If you destroy me, you destroy yourself! Leave now and some hollow part of you may survive. Stay, and I will break you down; you will lose yourself forever.	나를 파괴하면 너 자신을 파괴하는 것이다! 지금 떠나면 네 안의 텅 빈 일부는 살아남을지도 모른다. 남으면 내가 널 부숴 주마. 넌 영원히 자신을 잃게 될 것이다.
+00556	T|qlair.tlk|sound/character/cheshire_cat/vo/catz512.wav	The Queen is dead and gone. Well, at least she's gone--for now. Long live Alice. Long live Wonderland.	여왕은 죽어서 사라졌어. 뭐, 적어도 사라졌지. 지금은. 앨리스여 만수무강하라. 원더랜드여 만수무강하라.
+00557	T|qlair.tlk|sound/character/cheshire_cat/vo/catz513.wav	The Red Queen is gone. At least for now. Live long Alice. Live long Wonderland.	붉은 여왕은 사라졌어. 적어도 지금은. 앨리스여, 오래오래 살아라. 원더랜드여, 오래오래 살아라.
+00558	T|rchess1.tlk|sound/character/cheschire_cat/vo/catz303.wav	The White Queen awaits. You control her fate.	하얀 여왕이 기다리고 있어. 그녀의 운명은 네게 달렸어.
+00559	T|skool1.tlk|sound/character/alice/vo/alcz1020.wav	There's a bit more to do than you suggested, don't you think?	당신이 말한 것보다 할 일이 좀 더 많은 것 같지 않아요?
+00560	T|skool1.tlk|sound/character/alice/vo/alcz1022.wav	Mushrooms, poppies, sugar and spice All those things are very nice. When combined the proper mixture makes a getting-small elixir. Hmm, I don't really like sweets.	버섯, 양귀비, 설탕과 향신료. 다 근사한 것들이죠. 알맞게 섞으면 작아지는 영약이 되고요. 흠, 전 단 건 별로 안 좋아하는데요.
+00561	T|skool1.tlk|sound/character/gnome/elder/vo/go1011.wav	No need for sarcasm. I admit, my memory's not what it was. But I'm here now. I'll try to amend its deficiencies. The library contains a recipe for the potion. Consult the Book of Bizarre Things. Oh, no... Run...	비꼴 필요 없잖나. 인정하지, 내 기억력이 예전 같진 않아. 하지만 이제 여기 있잖은가. 모자란 부분은 메워 보겠네. 도서관에 그 약의 조제법이 있어. "기이한 것들의 책"을 찾아보게. 아, 안 돼... 도망쳐...
+00562	T|skool1.tlk|sound/character/alice/vo/alcz1021.wav	There's no lock, but it won't open. It's stuck.	자물쇠는 없는데 열리지 않아. 꽉 끼어 있어.
+00563	T|skool1.tlk|sound/character/cheshire_cat/vo/catz123.wav	Treat it like a Chinese box or a stubborn lid. A tap in the right spot might do the trick.	중국식 상자나 말을 안 듣는 뚜껑처럼 다뤄 봐. 알맞은 자리를 톡 치면 열릴지도 몰라.
+00564	T|skool1.tlk|sound/character/cheshire_cat/vo/catz124.wav	You call that a tap? Fortunate I didn't suggest force. You might have pulverized it.	그걸 톡 치는 거라고 하니? 힘으로 하라고 하지 않아서 다행이군. 가루로 만들 뻔했어.
+00565	T|skool1.tlk|sound/character/cheshire_cat/vo/catz119.wav	This Skool serves more than nasty lunches. The laboratories are especially fascinating, if you can stand the vile stench.	이 스쿨은 고약한 급식만 내놓는 곳이 아니야. 지독한 악취를 견딜 수 있다면 실험실이 특히 흥미롭지.
+00566	T|skool1.tlk|sound/character/cheshire_cat/vo/catz121.wav	Steps to enlightenment brighten the way; but the steps are steep. Take them one at a time.	깨달음으로 가는 계단은 길을 밝혀 주지만, 그 계단은 가팔라. 한 번에 한 칸씩 올라.
+00567	T|skool1.tlk|sound/character/cheshire_cat/vo/catz122.wav	Countless generations of termites would only digest a mere fraction of the volumes here; and they wouldn't be one wit wiser.	흰개미 수없는 세대가 먹어 치워도 여기 장서의 극히 일부만 소화할 테고, 그래도 조금도 더 현명해지지 않을 거야.
+00568	T|skool1.tlk|sound/character/cheshire_cat/vo/catz129.wav	Every picture tells a story. Sometimes we don't like the ending. Sometimes we don't understand it.	모든 그림은 이야기를 들려줘. 때로는 결말이 마음에 들지 않고, 때로는 이해하지 못하기도 하지.
+00569	T|skool2.tlk|sound/character/alice/vo/alcz1023.wav	I never cared for sports at school... I don't have to put on a pinny do I?	학교 다닐 때 운동은 영 좋아하지 않았는데... 앞치마 같은 걸 입어야 하는 건 아니겠죠?
+00570	T|skool2.tlk|sound/character/alice/vo/alcz1024.wav	You're fortunate I passed by.	제가 지나가서 다행인 줄 아세요.
+00571	T|skool2.tlk|sound/character/alice/vo/alcz1025.wav	Whenever we meet up seems I also find a bit more trouble. Seen any Jumbo Grow, about?	우리가 만날 때마다 골칫거리가 더 늘어나는 것 같네요. 점보 그로우 같은 건 못 봤나요?
+00572	T|skool2.tlk|sound/character/gnome/elder/vo/go1012.wav	The gymnasium should be safe. Guards never exercise. Can't afford to lose the weight.	체육관은 안전할 게야. 경비병들은 운동을 절대 안 하거든. 몸무게를 잃을 여유가 없으니 말이야.
+00573	T|skool2.tlk|sound/character/gnome/elder/vo/go1013.wav	No, it wouldn't suit you. I've recalled one of the potion's ingredients. Mushrooms... lovely texture. What's that?	아니, 자네한테는 안 어울리지. 약 재료 하나가 기억났네. 버섯... 식감이 참 좋지. 어, 저게 뭐지?
+00574	T|skool2.tlk|sound/character/gnome/elder/vo/go1014.wav	Meaning what? I was about to say you're lucky to have found me! Look, I've found the last ingredient. Sugared spice drops...	그게 무슨 뜻인가? 날 찾은 걸 행운으로 알라고 하려던 참이었는데! 보게, 마지막 재료를 찾았어. 설탕 입힌 향신료 사탕...
+00575	T|skool2.tlk|sound/character/gnome/elder/vo/go1015.wav	There's a bit in that flask on the sideboard. You see? We're set. Bring back some poppy blooms and we'll mix up the potion.	찬장 위 저 플라스크에 조금 들어 있네. 보이나? 준비 끝일세. 양귀비 꽃을 좀 가져오면 약을 섞어 보세.
+00576	T|skool2.tlk|sound/character/gnome/elder/vo/go1016.wav	This condenser can mix the potion... doesn't look like it's good for much else, though.	이 응축기로 약을 섞을 수 있겠군... 다른 데는 별로 쓸모가 없어 보이지만.
+00577	T|skool2.tlk|sound/character/gnome/elder/vo/go1017.wav	Now time to leave... but not as you came. Go by way of the Observatory. This star is for your stellar performance... may open some doors for you.	이제 떠날 때일세... 하지만 왔던 길로는 말고. 천문대를 거쳐 가게. 이 별은 자네의 눈부신 활약에 주는 상이야... 몇몇 문을 열어 줄지도 모르지.
+00578	T|skool2.tlk|sound/character/cheshire_cat/vo/catz125.wav	Unplanted seeds dry out and die.	심기지 않은 씨앗은 말라 죽는 법이야.
+00579	T|skool2.tlk|sound/character/cheshire_cat/vo/catz126.wav	Nature has ordained that certain seeds require assistance to fulfill their destiny.	어떤 씨앗은 제 운명을 이루려면 도움이 필요하도록 자연이 정해 놓았지.
+00580	T|skool2.tlk|sound/character/cheshire_cat/vo/catz127.wav	Gardners store rat poison and weed killer in sheds. Skools have laboratories for that purpose.	정원사는 쥐약과 제초제를 헛간에 보관하지. 스쿨에는 그런 용도로 실험실이 있고.
+00581	T|skool2.tlk|sound/character/cheshire_cat/vo/catz128.wav	Drink the potion only when you're ready to follow Rabbit.	토끼를 따라갈 준비가 되었을 때만 약을 마셔.
+00582	T|standard.tlk|sound/character/cheshire_cat/snide1.wav	Alice, you really suck.	앨리스, 넌 정말 형편없어.
+00583	T|standard.tlk|sound/character/cheshire_cat/snide2.wav	Why are you playing this game?	넌 왜 이 게임을 하고 있어?
+00584	T|standard.tlk|sound/character/cheshire_cat/snide3.wav	You want my help?	내 도움이 필요하다고?
+00585	T|standard.tlk|sound/character/cheshire_cat/water1.wav	Alice, you should know that cats hate the water.	앨리스, 고양이가 물을 싫어한다는 건 알아 둬.
+00586	T|standard.tlk|sound/character/cheshire_cat/water2.wav	Climb out of the water and then I might help you.	물에서 올라와. 그러면 도와줄지도 몰라.
+00587	T|standard.tlk|sound/character/cheshire_cat/water3.wav	Try something dry...	마른 걸 시도해 봐...
+00588	T|tower1.tlk|sound/character/cheshire_cat/vo/catz504.wav	Ride the thermal drafts like a gyrfalcon.	흰매처럼 상승 기류를 타.
+00589	T|tower2.tlk|sound/character/cheshire_cat/vo/catz505.wav	Turtle proved that being a reptile has advantages.	가짜 거북은 파충류라는 게 장점이 있다는 걸 증명했어.
+00590	T|tower3.tlk|sound/character/cheshire_cat/vo/catz506.wav	Time to jump in time to jump through time . . . I'm dizzy.	시간에 맞춰 시간을 뛰어넘을 시간이야... 어질어질해.
+00591	T|utemple.tlk|sound/character/cheshire_cat/vo/cat035.wav	Turtle's bubbles are like words to a prophet.	가짜 거북의 거품은 예언자에게 말씀과도 같아.
+00592	T|utemple.tlk|sound/character/cheshire_cat/vo/cat036.wav	His bubbles are to your survival what eyesight is to vision.	그의 거품과 네 생존의 관계는 눈과 시야의 관계와 같아.
+00593	T|wchess1.tlk|sound/character/cheshire_cat/vo/catz301.wav	Make your move toward the White Knight's Castle.	하얀 기사의 성을 향해 수를 두렴.
+00594	T|wchess1.tlk|sound/character/cheshire_cat/vo/catz302.wav	You know all the right moves. Use them.	너는 올바른 수를 다 알고 있어. 써먹으렴.
+00595	T|wchess2.tlk|sound/character/alice/vo/alcz3001.wav	I saw her captured. I'm sorry.	그녀가 붙잡히는 걸 봤어요. 유감이에요.
+00596	T|wchess2.tlk|sound/character/alice/vo/alcz3002.wav	As am I,  if I can't pass through this realm. I must collect the pieces to the Jabberwock's Eye Staff.	저도 마찬가지예요. 이 영역을 지나가지 못하면요. 재버워크의 눈알 지팡이 조각들을 모아야 해요.
+00597	T|wchess2.tlk|sound/character/alice/vo/alcz3003.wav	I'm not really a player. What are the rules?	전 사실 선수가 아니에요. 규칙이 어떻게 되죠?
+00598	T|wchess2.tlk|sound/character/alice/vo/alcz3004.wav	Should I be grateful for the truth? A lie or two might have been more persuasive.	진실에 감사해야 하나요? 거짓말 한두 마디가 더 설득력 있었을지도 모르겠네요.
+00599	T|wchess2.tlk|sound/character/alice/vo/alcz3005.wav	A mere pawn is the best I can hope for?	제가 바랄 수 있는 게 고작 졸병이라고요?
+00600	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk001.wav	Help us, please. The Red Queen's forces are strong and show no mercy. Our own queen is in terrible danger.	부디 도와주시오. 붉은 여왕의 군세는 강하고 자비가 없소. 우리 여왕께서 끔찍한 위험에 처하셨소.
+00601	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk002.wav	Without her generalship, red wins. We're doomed.	그분의 지휘가 없으면 붉은 편이 이기오. 우리는 끝장이오.
+00602	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk003.wav	Free the White Queen, Alice. That would help us both.	하얀 여왕을 구해 주시오, 앨리스. 그러면 우리 둘 다 도움이 될 것이오.
+00603	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk004.wav	Rules? There are no rules. There's barely any strategy. No time! Make a frontal assault on the Red Castle. I won't lie to you, you'll meet deadly traps and fierce opposition along the way.	규칙이라고? 규칙은 없소. 전략도 거의 없고. 시간이 없소! 붉은 성을 정면으로 공격하시오. 거짓말은 않겠소, 가는 길에 치명적인 함정과 거센 저항을 만날 것이오.
+00604	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk005.wav	In war: Truth first. There's always time for lies later. You won't face the enemy alone. Carry this soldier to the White Queen.	전쟁에선 진실이 먼저요. 거짓말을 할 시간은 언제든 나중에 있지. 그대 혼자 적과 맞서게 하지 않겠소. 이 병사를 하얀 여왕께 데려가 주시오.
+00605	T|wchess2.tlk|sound/character/chess_piece/king/vo/wtk006.wav	I'm afraid so. Now, return as you came. The Rooks know the way.	유감이지만 그렇소. 이제 왔던 길로 돌아가시오. 루크들이 길을 알고 있소.
+00606	T|wforest.tlk|sound/character/alice/vo/alcz2031.wav	I have one piece of the Eye Staff. Where are the others?	눈알 지팡이 조각을 하나 갖고 있어요. 나머지는 어디 있죠?
+00607	T|wforest.tlk|sound/character/alice/vo/alcz2032.wav	Obscure allusions to chess are fine; but it troubles me that anonymous oracles know more of my business than I do.	체스에 대한 모호한 암시는 괜찮지만, 정체 모를 신탁들이 나보다 내 일을 더 잘 안다는 게 마음에 걸려.
+00608	T|wforest.tlk|sound/character/caterpillar/vo/cpl007.wav	To destroy the palace, filled with malice, is the daring work, of noble Alice.	악의로 가득한 궁전을 부수는 것은, 고귀한 앨리스의 용감한 사명이라.
+00609	T|wforest.tlk|sound/character/caterpillar/vo/cpl008.wav	An endgame with the Red Queen is possible only after you crush her sentinel--the vile, fiercilicious, and vengeful Jabberwock. Without the Staff that bears his name, destroying him is the hopeless work of a wasted life.	붉은 여왕과의 최후의 승부는 그녀의 파수꾼, 즉 추악하고 흉악무도하며 복수심에 불타는 재버워크를 꺾은 뒤에야 가능하다. 그의 이름을 지닌 지팡이 없이 그를 쓰러뜨리는 건 허송세월한 인생의 절망적인 일이다.
+00610	T|wforest.tlk|sound/character/caterpillar/vo/cpl009.wav	Scattered throughout the world. When you have them all in hand, checkmate is possible. The pale royals may be of use.	세상 곳곳에 흩어져 있다. 전부 손에 넣으면 체크메이트가 가능하다. 창백한 왕족들이 쓸모가 있을지도 모른다.
+00611	T|wforest.tlk|sound/character/alice/vo/alcz2033.wav	Such order in the midst of chaos makes me woozy and disoriented.	혼돈 한복판에 이런 질서가 있으니 어지럽고 방향 감각을 잃겠어.
+00612	T|wforest.tlk|sound/character/cheshire_cat/vo/catz222.wav	The dimensions of this desolate tract are unknown to all but the inhabitants. Only one path will bring you to the endgame.	이 황량한 땅의 크기는 주민들 말고는 아무도 몰라. 최후의 승부로 이어지는 길은 오직 하나뿐이야.
+00613	T|wforest.tlk|sound/character/cheshire_cat/vo/catz223.wav	Flattering words often incite their object to rash action. Learn their true meaning.	아첨하는 말은 종종 듣는 이를 성급한 행동으로 부추겨. 그 진짜 뜻을 헤아려.
+00614	T|wforest.tlk|sound/character/cheshire_cat/vo/catz224.wav	Since you know the moves, best play with Whites. They go first.	수를 아니까 흰 말로 두는 게 좋아. 흰 말이 먼저 두거든.
+00615	T|wforest.tlk|sound/character/cheshire_cat/vo/catz225.wav	Cats are color blind, you know. Kaleidoscopes hold no interest for us.	고양이는 색맹이야. 만화경 같은 건 우리한테 흥미가 없지.
+00616	T|wforest.tlk|sound/character/cheshire_cat/vo/catz226.wav	The regularity of the board disguises the predatory menace of certain pieces.	판의 규칙성이 몇몇 말의 포식자 같은 위협을 감춰.
+00617	T|wforest.tlk|sound/character/cheshire_cat/vo/catz317.wav	These woods are familiar. The voice from the cliff, remember? Wonder if he's done a bunk by now.	이 숲은 낯이 익어. 절벽에서 들리던 목소리 기억나? 그자가 벌써 내빼 버렸을까 궁금하네.
+00618	T|wforest.tlk|sound/character/cheshire_cat/vo/catz221.wav	The Jabberwock's Eye Staff is incomparably powerful. But its individual pieces are worth less than the carcass of a gnat.	재버워크의 눈알 지팡이는 비할 데 없이 강력해. 하지만 조각 하나하나는 각다귀 시체만도 못한 가치야.
+00619	T|wforest.tlk|sound/character/gryphon/vo/gry006a.wav	...only the Jabberwock's Eye Staff can pry them open...	...재버워크의 눈알 지팡이만이 그 문을 열 수 있소...
