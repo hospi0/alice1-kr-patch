@@ -7,7 +7,7 @@
 예외: 번호 6·7 은 r7 = [TOC 0x358EC0] 값과 그 +0x40 (코드가 더함) → 칸을 못 바꾸고 «제자리» (원래 바이트 범위 안).
 번역: work/ko/sysmsg.tsv (번호 \\t 한글, «\\n» = 줄바꿈) · CP949 · 글꼴 밖 글자 막음
 """
-import os, struct
+import os, re, struct
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 번호: (영어 TOC 칸, [FR·DE·ES TOC 칸], 영어 앞부분 — 원본 대조)
@@ -60,7 +60,7 @@ def load_ko():
         if not l.strip() or l.startswith('#'):
             continue
         a, b = l.split('\t')
-        k = b.replace('\\n', '\n')
+        k = re.sub(r' *\\n', ' \n', b)   # 원본처럼 줄바꿈 앞에 공백 — 게임은 «공백으로 끝난 낱말»만 찍어 줄 끝 낱말이 사라짐(2026-11-12 실기)
         bad = [c for c in k if ord(c) >= 0x80 and c not in KS]
         assert not bad, '글꼴 밖 글자 %s %r' % (a, bad)
         out[int(a, 16)] = k.encode('cp949')
